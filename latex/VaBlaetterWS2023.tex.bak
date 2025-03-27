@@ -1,0 +1,192 @@
+%% file: VaBlaetter.tex
+%% author: Martin Koelbl
+%% date: 1.08.2015
+%% purpose: Va-Blaetter Herbst 2015 Hauptdatei
+
+%% Flag, das anzeigt, ob vorlaeufige oder final-Version erstellt wird:
+\newif\ifDraft\Draftfalse
+
+%% Flag das anzeigt ob eine Kurzversion erstellt wird:
+%% Kurzversion derzeit noch kaum implementiert.
+\newif\ifKurzversion\Kurzversionfalse
+%\Kurzversiontrue
+%% Flag das anzeigt ob Links erstellt werden:
+%% Vorsicht: Wenn \Linksfalse eingestellt wird, dann die Datei fktana.ind loeschen und neu erstellen (mit makeindex), sonst beisst sich LaTeX die Zaehne aus.
+\newif\ifLinks\Linkstrue
+%\Linksfalse
+
+%% Flag das anzeigt welcher Treiber (dvips/pdftex) verwendet wird:
+%\newcommand{\driver}{pdftex}
+%% Unnoetig, hyperref und graphicx kapieren selbstaendig,
+%% was sie tun muessen. :-) 
+
+%% Umgebungs-Einstellungen laden, falls vorhanden:
+\InputIfFileExists{env_settings.tex}{}{}
+
+%% Dokument-Beschreibung:
+\input{header.tex}
+
+%% Makros und Umgebungen:
+%\input{makros.tex}
+
+%% Zwei neue Umgebungen für Listen: lista mit Buchstabenzählung, und listi mit römischen Zahlen
+%% muss noch entwickelt werden
+% \newcommand{\listea}{\begin{enumerate}[\medspace (a)]}
+% \newcommand{\listeaend}{\end{enumerate}}
+% \newcommand{\listei}{\begin{enumerate}[\medspace $(i)$]}
+% \newcommand{\listeiend}{\end{enumerate}}
+% \newcommand{\liste}{\begin{enumerate}[\mAnonymer Barbetriebedspace 1.]}
+% \newcommand{\listeend}{\end{enumerate}}
+
+\newcommand{\nobr}{\nolinebreak}
+\newcommand{\vo}{v\//\/o }
+%\newcommand{\tocline}[1]{\addtocontents{toc}{\contentsline {section}{\numberline{}{\hspace{-0.5cm}{\large {#1}}}}}}
+\newcommand{\tocline}[1]{\addtocontents{toc}{section}{\numberline{}\hspace{-0.5cm}{\large {#1}}}}
+% select ONE of the two following lines to switch between color and bw pictures
+\newcommand{\Bilder}{Bilder}
+%\newcommand{\Bilder}{Bilder/farbig}
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+
+
+%\makeindex
+\pagenumbering{arabic}
+
+
+\begin{document}
+
+%% Titelseite:
+\input{Titelseite}
+
+%% Disclaimer:
+%\input disclaimer.tex
+
+\clearpage
+
+
+%% Inhaltsverzeichnis:
+%\linespread{1}
+
+% Zeilenabstand im Inhaltsverzeichnis:
+\addtocontents{toc}{\protect\linespread{+0.2}\protect\selectfont}
+
+\tableofcontents
+\enlargethispage{1cm}
+
+\clearpage
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Teil WS1819
+
+\input{Artikel/impressum}
+\clearpage
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Vorworte
+\input{Artikel/vorwort_senior}
+%\clearpage
+
+\clearpage
+%\input{Artikel/vorwort_philsenior}
+\clearpage
+\input{Artikel/kneiprede}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Berichte aus dem Semester
+
+%\clearpage
+
+%\clearpage
+
+%\clearpage
+
+%\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Magazinteil
+\newpage
+\input{Artikel/artikel_fuxenfahrtss2022.tex}
+
+
+\input{Artikel/artikel_maifestss22.tex}
+\newpage
+
+
+
+\input{Artikel/artikel_kirchturm.tex}
+\newpage
+
+
+\input{Artikel/BilderBegrüßungsabendWS2022.tex}
+\newpage
+
+\input{Artikel/artikel_fuxenfahrtws2022.tex}
+\newpage
+
+
+\input{Artikel/BilderAnkneipeWS2022.tex}
+\newpage
+
+\input{Artikel/artikel_rhetorik.tex}
+\newpage
+
+\input{Artikel/BilderKrambabulikneipeWS2022.tex}
+\newpage
+
+\input{Artikel/artikel_akademischerabend}
+\newpage
+
+\input{Artikel/BilderGründungsfestws2022.tex}
+\newpage
+
+\input{Artikel/artikel_sudetendeutschesmuseum.tex}
+\newpage
+
+\input{Artikel/artikel_bierverköstigung}
+\newpage
+
+\input{Artikel/BilderMartinsgansessenWS2022.tex}
+\newpage
+
+\input{Artikel/artikel_reaktor}
+\newpage
+
+
+\input{Artikel/BilderMaifestSS2023.tex}
+\newpage
+
+
+\input{Artikel/artikel_fronleichnamsprozession}
+
+\input{Artikel/BilderFronleichnamSS2023.tex}
+\newpage
+
+\input{Artikel/artikel_sbahn}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Vortraege
+
+%\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Nachrufe
+%\input{Artikel/trauerkneipe}
+
+%\clearpage
+
+%\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Todesanzeigen
+
+\newpage
+\input{Artikel/Todesanzeigen}
+\clearpage
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Vandalia gratuliert
+\input{Artikel/VaGratuliert}
+
+\end{document}

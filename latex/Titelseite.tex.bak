@@ -1,0 +1,14 @@
+
+
+
+\begin{titlepage}
+
+%\Huge Dummy für Titelseite
+
+\begin{textblock}{3}(0,0) 
+     \includegraphics[width=1.\paperwidth]{Titelseite/cover.png}
+\end{textblock} 
+
+\end{titlepage}
+
+\leavevmode\newpage

@@ -1,0 +1,184 @@
+%% file: VaBlaetter.tex
+%% author: Martin Koelbl
+%% date: 1.08.2015
+%% purpose: Va-Blaetter Herbst 2015 Hauptdatei
+
+%% Flag, das anzeigt, ob vorlaeufige oder final-Version erstellt wird:
+\newif\ifDraft\Draftfalse
+
+%% Flag das anzeigt ob eine Kurzversion erstellt wird:
+%% Kurzversion derzeit noch kaum implementiert.
+\newif\ifKurzversion\Kurzversionfalse
+%\Kurzversiontrue
+%% Flag das anzeigt ob Links erstellt werden:
+%% Vorsicht: Wenn \Linksfalse eingestellt wird, dann die Datei fktana.ind loeschen und neu erstellen (mit makeindex), sonst beisst sich LaTeX die Zaehne aus.
+\newif\ifLinks\Linkstrue
+%\Linksfalse
+
+
+%% Umgebungs-Einstellungen laden, falls vorhanden:
+\InputIfFileExists{env_settings.tex}{}{}
+
+%% Dokument-Beschreibung:
+\input{header.tex}
+
+%% Makros und Umgebungen:
+%\input{makros.tex}
+
+%% Zwei neue Umgebungen für Listen: lista mit Buchstabenzählung, und listi mit römischen Zahlen
+%% muss noch entwickelt werden
+% \newcommand{\listea}{\begin{enumerate}[\medspace (a)]}
+% \newcommand{\listeaend}{\end{enumerate}}
+% \newcommand{\listei}{\begin{enumerate}[\medspace $(i)$]}
+% \newcommand{\listeiend}{\end{enumerate}}
+% \newcommand{\liste}{\begin{enumerate}[\mAnonymer Barbetriebedspace 1.]}
+% \newcommand{\listeend}{\end{enumerate}}
+
+\newcommand{\nobr}{\nolinebreak}
+\newcommand{\vo}{v\//\/o }
+%\newcommand{\tocline}[1]{\addtocontents{toc}{\contentsline {section}{\numberline{}{\hspace{-0.5cm}{\large {#1}}}}}}
+\newcommand{\tocline}[1]{\addtocontents{toc}{section}{\numberline{}\hspace{-0.5cm}{\large {#1}}}}
+% select ONE of the two following lines to switch between color and bw pictures
+\newcommand{\Bilder}{Bilder}
+%\newcommand{\Bilder}{Bilder/farbig}
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+
+
+%\makeindex
+\pagenumbering{arabic}
+
+
+\begin{document}
+
+%% Titelseite:
+\input{Titelseite}
+
+%% Disclaimer:
+%\input disclaimer.tex
+
+\clearpage
+
+
+%% Inhaltsverzeichnis:
+%\linespread{1}
+
+% Zeilenabstand im Inhaltsverzeichnis:
+\addtocontents{toc}{\protect\linespread{+0.2}\protect\selectfont}
+
+\tableofcontents
+\enlargethispage{1cm}
+
+\clearpage
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Teil WS1819
+
+\input{Artikel/impressum}
+\clearpage
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Vorworte
+
+\input{Artikel/vorwort_phil_senior.tex}
+\newpage
+
+\input{Artikel/vorwort_senior}
+\clearpage
+
+\input{Artikel/vorwort_senior_2.tex}
+\clearpage
+
+\newpage
+\input{Artikel/kneiprede}
+\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Berichte aus dem Semester
+
+%\clearpage
+
+%\clearpage
+
+%\clearpage
+
+%\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Magazinteil
+
+
+\input{Artikel/artikel_unikonzert_ss22.tex}
+\newpage
+
+\input{Artikel/artikel_tanzkurs_ws24.tex}
+\newpage
+
+\input{Artikel/bilder_tanzkurs.tex}
+\newpage
+
+\input{Artikel/artikel_Martinsgansessen.tex}
+\newpage
+
+\input{Artikel/artikel_gründungsfest2324.tex}
+\newpage
+
+
+\input{Artikel/BilderGründungsfestWS2023.tex}
+\newpage
+
+%\input{Artikel/artikel_gaudeamusballWS2024.tex}
+%\newpage
+
+\input{Artikel/129_artikel_vandalix_oelympische_spiele.tex}
+\newpage
+
+\input{Artikel/artikel_100Semesterband.tex}
+\newpage
+
+\input{Artikel/artikel_Back_to_the_roots_Prag.tex}
+\newpage
+
+\input{Artikel/BilderPragfahrt2024.tex}
+\newpage
+
+\input{Artikel/artikel_n2_reduktion.tex}
+\newpage
+
+\input{Artikel/129_artikel_genesis2.tex}
+\newpage
+
+\input{Artikel/artikel_singfaehiger_vandale.tex}
+\newpage
+
+\input{Artikel/artikel_Neubewertung des Fuxen.tex}
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Vortraege
+
+%\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Nachrufe
+%\input{Artikel/trauerkneipe}
+
+%\clearpage
+
+%\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Todesanzeigen
+
+\newpage
+\input{Artikel/Todesanzeigen}
+\clearpage
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Vandalia gratuliert
+\input{Artikel/VaGratuliert}
+
+\end{document}

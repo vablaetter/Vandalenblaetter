@@ -1,0 +1,196 @@
+%% file: header.tex
+%% author: Patrick Leyendecker
+%% date: 23.08.2012
+%% purpose: Va-Blätter Header nach Vorlage des Skriptenprojekts
+
+\ifDraft
+  \global\def\Draftoption{,draft}
+\else
+  \global\def\Draftoption{}
+\fi
+\documentclass[a4paper,12pt,ngerman\Draftoption,twoside]{scrartcl}%,\driver
+
+\usepackage[utf8]{inputenc}
+%\usepackage[OT2, T1]{fontenc}
+\usepackage[ngerman]{babel}
+
+% \usepackage{eurosym}
+%\usepackage{ifthen}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+%\usepackage{amssymb}
+%\usepackage{stmaryrd}   % zusaetzliche Mathe-Symbole
+% \usepackage{theorem}    % Theorem-Umgebungen
+\usepackage{graphicx}
+%\usepackage{makeidx}
+%\usepackage{mathrsfs}   % Schreibschrift-Zeichen (nur uppercase)
+\usepackage[inner=22mm, outer=26mm, bottom=0mm, top=0mm,footskip=40mm]{geometry}  
+\usepackage{textcomp}
+
+%\usepackage{mhchem} %/Thomas Wlokas Sonderzeichen SS12
+
+ % Seiten-Layout
+\usepackage{verbatim}
+\usepackage{array}
+%\usepackage{enumerate}
+%\usepackage{xspace}
+%\usepackage{url}
+% \usepackage{hyperref}
+%\usepackage{xypic}      % kommutative Diagramme
+%\usepackage[ruled,chapter]{algorithm}
+%\usepackage{algorithmicx,algpseudocode}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{eurosym}
+\usepackage{blindtext}
+\usepackage{lipsum}
+\usepackage{soul}
+%\usepackage{ulem}
+\usepackage{wrapfig}
+\usepackage[absolute]{textpos} 
+\usepackage{subfigure}
+%\usepackage{subcaption}
+\usepackage{dblfloatfix}
+
+%\usepackage{cyrillic}
+\usepackage{graphicx}
+\newcommand{\heart}{\ensuremath\heartsuit}
+
+
+
+%\linespread{1.1}
+
+% 06.07, Hajo: fontenc ermoeglicht Umlaute in Hyphenations. Es 
+% werden jedoch neue Fonts (mit extra Umlaut-Buchstaben) verwendet
+%\usepackage[T1]{fontenc}
+%\usepackage{m-pictex}
+%15.07.2003, Markus: mit m-pictex kann man sehr gut direkt in Tex Graphen erstellen (siehen momentan Analysis 3), es gibt auch keine Probleme wie z.B bei pictex
+%\ifLinks
+%  \usepackage[linkbordercolor=0 0 0]{hyperref}% Navigation mit Links
+%\fi
+
+%% Seitendimensionen:
+\geometry{vmargin={3cm,4cm}}
+
+%% Hypersetup:
+%\ifLinks
+%\hypersetup{plainpages=false,colorlinks=true,linkcolor=blue,pdftitle={Diplomarbeit}}
+%\fi
+
+%% Absatzformatierung:
+%\setlength{\parindent}{0pt}
+%\setlength{\parskip}{5pt plus 2pt minus 1pt}
+
+
+%% Nummerierung der Ueberschriften:
+%% In diesem Skript haben die Abschnitte im Gegensatz zum Tafelanschrieb
+%% kein fuehrendes '�' (sonst heissen die Theoreme z.B. 'Satz � 1.12').
+
+%% chapters roemisch nummerieren:
+%\def\thechapter{\Roman{chapter}}
+%% sections nicht innerhalb von chaptern nummerieren:
+%\makeatletter
+%\newcounter{tmpsection}
+%\def\@chapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
+%                       \if@mainmatter
+%                         \setcounter{tmpsection}{\value{section}}
+%                         \refstepcounter{chapter}%
+%                         \setcounter{section}{\value{tmpsection}}
+%                         \typeout{\@chapapp\space\thechapter.}%
+%                         \addcontentsline{toc}{chapter}%
+%                                   {\protect\numberline{\thechapter}#1}%
+%                       \else
+%                         \addcontentsline{toc}{chapter}{#1}%
+%                       \fi
+%                    \else
+%                      \addcontentsline{toc}{chapter}{#1}%
+%                    \fi
+%                    \chaptermark{#1}%
+%                    \addtocontents{lof}{\protect\addvspace{10\p@}}%
+%                    \addtocontents{lot}{\protect\addvspace{10\p@}}%
+%                    \if@twocolumn
+%                      \@topnewpage[\@makechapterhead{#2}]%
+%                    \else
+%                      \@makechapterhead{#2}%
+%                      \@afterheading
+%                    \fi}
+%\renewcommand\thesection {\arabic{chapter}.\arabic{section}}
+%\renewcommand\thefigure {\arabic{chapter}.\arabic{section}.\arabic{figure}}
+%\def\thesection{\arabic{section}}
+%% section-Ueberschriften nicht im Blocksatz, sondern linksbuendig:
+%\renewcommand\section{\@startsection {section}{1}{\z@}%
+%                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+%                                   {2.3ex \@plus.2ex}%
+%                                   {\normalfont\Large\bfseries\raggedright}}
+\makeatother
+%% subsubsections nicht mehr nummerieren:
+\setcounter{secnumdepth}{1}
+%% subsubsections nicht ins Inhaltsverzeichnis:
+\setcounter{tocdepth}{1}
+
+%\setlength{\left}{2cm}
+%\setlength{\right}{3cm}
+
+\setlength{\parindent}{0pt}
+
+%% Nummerierung von Abbildungen und Tabellen:
+\numberwithin{figure}{section}
+\numberwithin{table}{section}
+
+\addtokomafont{caption}{\itshape}
+\renewcommand*{\figureformat}{}
+\renewcommand*{\captionformat}{}
+
+\setlength{\headheight}{26pt}
+
+\setlength{\columnsep}{30pt}
+
+\setlength{\parskip}{6pt}
+
+% This is 'SCHUSTER.STY' as of 25. March 1990
+%
+% Disable single lines at the start of a paragraph (Schusterjungen)
+\clubpenalty = 10
+%
+% Disable single lines at the end of a paragraph (Hurenkinder)
+\widowpenalty = 10000
+\displaywidowpenalty = 10
+%
+% - End of 'SCHUSTER.STY' -
+
+
+
+\pagestyle{fancy}
+% \fancyfoot{}
+\fancyhead{}
+\fancyhead[EL,OR]{ \footnotesize Seite \thepage \\ Die Vandalenblätter}
+\fancyhead[ER,OL]{\footnotesize 128/2023 } %\\ (Nummer 32 -- Herbst
+% 2014)}
+\fancyhead[EC,OC]{ \large \textsc{\leftmark } \vspace{0pt}}
+
+%\renewcommand\sectionmark[1]{%
+%  \markright {\MakeUppercase{%
+%     \ifnum \c@secnumdepth >\m@ne
+%         \@secapp\ \thesection. \ %
+%     \fi
+%     #1}}}
+
+
+\renewcommand{\thesection}{}
+\renewcommand{\theparagraph}{}
+\renewcommand{\thesubsubsection}{}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+
+\makeatletter
+\newenvironment{tablehere}
+  {\def\@captype{table}}
+  {}
+
+\newenvironment{figurehere}
+  {\def\@captype{figure}}
+  {}
+\makeatother
+
+
+%% Trennungsregeln:
+

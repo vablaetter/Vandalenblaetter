@@ -1,0 +1,21 @@
+\babel@toc {ngerman}{}\relax 
+\linespread {+0.2}\selectfont 
+\contentsline {section}{\numberline {}Vorwort des Philisterseniors}{4}{}%
+\contentsline {section}{\numberline {}Vorwort des Seniors aus dem WS 2023/24}{5}{}%
+\contentsline {section}{\numberline {}Vorwort des Seniors aus dem WS 2024/25}{7}{}%
+\contentsline {section}{\numberline {}Kneipreden des WS 2023/24}{8}{}%
+\contentsline {section}{\numberline {}Unikonzert SS 2022}{15}{}%
+\contentsline {section}{\numberline {}Standardtanzkurs im November}{17}{}%
+\contentsline {section}{\numberline {}Bilder Tanzkurs}{18}{}%
+\contentsline {section}{\numberline {}Martinsgansessen im WS 2023/2024}{19}{}%
+\contentsline {section}{\numberline {}Gründungsfest WS 2023/24}{21}{}%
+\contentsline {section}{\numberline {}Bilder Gründungsfest WS 2023/24}{24}{}%
+\contentsline {section}{\numberline {}Ankneipe SS 2024: Die Oelympischen Spiele}{25}{}%
+\contentsline {section}{\numberline {}100-Semester-Bandverleihung}{27}{}%
+\contentsline {section}{\numberline {}Back to the roots: \\ ~~Aktivenfahrt in unsere Gründungsstadt Prag}{29}{}%
+\contentsline {section}{\numberline {}Bilder Aktivenfahrt Prag SS 2024}{32}{}%
+\contentsline {section}{\numberline {}Leben aus Stickstoff – die Zukunft der Ammoniakproduktion}{39}{}%
+\contentsline {section}{\numberline {}Genesis 2: Eine theologische Abhandlung}{42}{}%
+\contentsline {section}{\numberline {}Der singfähige Vandale}{45}{}%
+\contentsline {section}{\numberline {}Neubewertung des Fuxendaseins}{46}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

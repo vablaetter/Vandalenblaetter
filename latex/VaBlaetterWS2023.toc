@@ -1,0 +1,23 @@
+\babel@toc {ngerman}{}\relax 
+\linespread {+0.2}\selectfont 
+\contentsline {section}{\numberline {}Vorwort des Seniors}{4}{}%
+\contentsline {section}{\numberline {}Kneiprede zur Semesterabschlusskneipe des Sommersemesters 2023}{7}{}%
+\contentsline {section}{\numberline {}Fuxenfahrt des SS2022}{12}{}%
+\contentsline {section}{\numberline {}Maifest SS22}{14}{}%
+\contentsline {section}{\numberline {}Kirchturmführung SS22}{16}{}%
+\contentsline {section}{\numberline {}Bilder Begrüßungsabend WS2022/2023}{17}{}%
+\contentsline {section}{\numberline {}Fuxenfahrt Würzburg WS22/23}{18}{}%
+\contentsline {section}{\numberline {}Bilder Ankneipe WS22/23}{21}{}%
+\contentsline {section}{\numberline {}Abendvortrag „Der erfolgreiche Kommunikator“ von Bbr. Moritz Göring WS22/23}{22}{}%
+\contentsline {section}{\numberline {}Bilder Krambambulikneipe WS22/23}{26}{}%
+\contentsline {section}{\numberline {}Akademischen Abend WS22/23}{27}{}%
+\contentsline {section}{\numberline {}Bilder Gründungsfest WS22/23}{28}{}%
+\contentsline {section}{\numberline {}Besuch Sudetendeutschen Museums WS22/23}{31}{}%
+\contentsline {section}{\numberline {}Die akademische Bierverköstigung WS22/23}{32}{}%
+\contentsline {section}{\numberline {}Bilder Martinsgansessen WS22/23}{33}{}%
+\contentsline {section}{\numberline {}Ausflug zur Forschungs-Neutronenquelle in Garching WS22/23}{34}{}%
+\contentsline {section}{\numberline {}Bilder Maifest SS2023}{35}{}%
+\contentsline {section}{\numberline {}Fronleichnamsprozession SS 2023}{36}{}%
+\contentsline {section}{\numberline {}Bilder Fronleichnamsprozession SS2023}{37}{}%
+\contentsline {section}{\numberline {}Baustelle 2. S-Bahn-Stammstrecke SS23}{38}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

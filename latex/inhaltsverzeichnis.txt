@@ -1,0 +1,35 @@
+\babel@toc {ngerman}{}
+\linespread {+0.2}\selectfont 
+\subsection*{Vorworte}
+\contentsline {section}{\numberline {}Vorwort des Seniors}{4}{}%
+\contentsline {section}{\numberline {}Vorwort des MCV-Seniors}{5}{}%
+\contentsline {section}{\numberline {}Vorwort des Philisterseniors}{7}{}%
+\subsection*{Magazinteil}
+\contentsline {section}{\numberline {}Der digitale Kneipsaal}{8}{}%
+\contentsline {section}{\numberline {}Online Kochen mit dem Consenior}{9}{}%
+\contentsline {subsection}{\nonumberline Wiener Schnitzel}{10}{}%
+\contentsline {subsection}{\nonumberline Sauce Hollandaise}{10}{}%
+\contentsline {subsection}{\nonumberline Gefüllte Hähnchenbrust}{11}{}%
+\contentsline {subsection}{\nonumberline Mediterrane Stampfkartoffeln}{11}{}%
+\contentsline {subsection}{\nonumberline Mousse au chocolat}{12}{}%
+\contentsline {section}{\numberline {}Kneiprede zur Semesterabschlusskneipe}{13}{}%
+\contentsline {section}{\numberline {}Corona-Abkneipe des Sommersemesters 2020}{15}{}%
+\contentsline {section}{\numberline {}Lasst uns die „Chance Corona“ nutzen!}{17}{}%
+\contentsline {subsubsection}{\nonumberline Virtuelle Vorträge}{17}{}%
+\contentsline {subsubsection}{\nonumberline Virtuelle Stammtische}{18}{}%
+\contentsline {subsubsection}{\nonumberline Kochen mit dem Consenior}{19}{}%
+\contentsline {subsubsection}{\nonumberline Virtuelle Kneipen}{19}{}%
+\contentsline {subsubsection}{\nonumberline Verbindungsgeschichte aufleben lassen}{20}{}%
+\contentsline {subsubsection}{\nonumberline Live-Streaming Gottesdienste}{21}{}%
+\contentsline {section}{\numberline {}Die Coronapandemie aus meiner Hausarztsicht}{22}{}%
+\contentsline {section}{\numberline {}\#Aufgelesen}{25}{}%
+\contentsline {section}{\numberline {}Pflegekräfte – systemrelevant, aber nur in der Theorie?}{26}{}%
+\contentsline {section}{\numberline {}Traumziele Dolomiten}{27}{}%
+\contentsline {section}{\numberline {}„Der Corona-Impfstoff“ – Live und in Farben}{29}{}%
+\contentsline {section}{\numberline {}Vandalenfahrt einmal anders}{32}{}%
+\contentsline {section}{\numberline {}Vortrag: Künstliche Intelligenz}{38}{}%
+\subsection*{Trauer}
+\contentsline {section}{\numberline {}Trauerkneipe}{40}{}%
+\contentsline {section}{\numberline {}Taprogge bei einem Besuch in der Va}{43}{}%
+\contentsline {section}{\numberline {}In Memoriam Helmut Schwanghart}{44}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

@@ -1,0 +1,104 @@
+%% file: header.tex
+%% author: Patrick Leyendecker
+%% date: 23.08.2012
+%% purpose: Va-Blätter Header nach Vorlage des Skriptenprojekts
+
+\ifDraft
+  \global\def\Draftoption{,draft}
+\else
+  \global\def\Draftoption{}
+\fi
+%\documentclass[a4paper,12pt,ngerman\Draftoption,twoside]{scrartcl}%,\driver
+\documentclass[a4paper,12pt,ngerman,twoside]{scrartcl}
+
+\usepackage[utf8]{inputenc}
+%\usepackage[OT2, T1]{fontenc}
+\usepackage[ngerman]{babel}
+
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{paracol}
+
+\usepackage[inner=22mm, outer=26mm, bottom=0mm, top=0mm,footskip=40mm]{geometry}  
+\usepackage{textcomp}
+
+ % Seiten-Layout
+\usepackage{verbatim}
+\usepackage{array}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{eurosym}
+\usepackage{blindtext}
+\usepackage{lipsum}
+\usepackage{soul}
+%\usepackage{ulem}
+\usepackage{wrapfig}
+\usepackage[absolute]{textpos} 
+\usepackage{subfigure}
+\usepackage{caption}
+%\usepackage{subcaption}
+\usepackage{dblfloatfix}
+
+%\usepackage{cyrillic}
+\usepackage{graphicx}
+\newcommand{\heart}{\ensuremath\heartsuit}
+
+\geometry{vmargin={3cm,4cm}}
+
+
+\makeatother
+%% subsubsections nicht mehr nummerieren:
+\setcounter{secnumdepth}{1}
+%% subsubsections nicht ins Inhaltsverzeichnis:
+\setcounter{tocdepth}{1}
+
+\setlength{\parindent}{0pt}
+
+%% Nummerierung von Abbildungen und Tabellen:
+\numberwithin{figure}{section}
+\numberwithin{table}{section}
+
+\addtokomafont{caption}{\itshape}
+\renewcommand*{\figureformat}{}
+\renewcommand*{\captionformat}{}
+
+\setlength{\headheight}{26pt}
+
+\setlength{\columnsep}{30pt}
+
+\setlength{\parskip}{6pt}
+
+% Disable single lines at the start of a paragraph (Schusterjungen)
+\clubpenalty = 10
+%
+% Disable single lines at the end of a paragraph (Hurenkinder)
+\widowpenalty = 10000
+\displaywidowpenalty = 10
+
+
+
+
+\pagestyle{fancy}
+% \fancyfoot{}
+\fancyhead{}
+\fancyhead[EL,OR]{ \footnotesize Seite \thepage \\ Die Vandalenblätter}
+\fancyhead[ER,OL]{\footnotesize 129/2024 } %\\ (Nummer 32 -- Herbst
+% 2014)}
+\fancyhead[EC,OC]{ \large \textsc{\leftmark } \vspace{0pt}}
+
+\renewcommand{\thesection}{}
+\renewcommand{\theparagraph}{}
+\renewcommand{\thesubsubsection}{}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+
+\makeatletter
+\newenvironment{tablehere}
+  {\def\@captype{table}}
+  {}
+
+\newenvironment{figurehere}
+  {\def\@captype{figure}}
+  {}
+\makeatother

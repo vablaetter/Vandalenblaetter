@@ -1,0 +1,1376 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.6)  6 NOV 2023 22:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./VaBlaetterWS2023.tex
+(VaBlaetterWS2023.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (header.tex
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/koma-scr
+ipt\scrartcl.cls
+Document Class: scrartcl 2022/10/12 v3.38 KOMA-Script document class (article)
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/koma-scr
+ipt\scrkbase.sty
+Package: scrkbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/koma-scr
+ipt\scrbase.sty
+Package: scrbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/koma-scr
+ipt\scrlfile.sty
+Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/koma-scr
+ipt\scrlfile-hook.sty
+Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/koma-scr
+ipt\scrlogo.sty
+Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
+)))
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/koma-scr
+ipt\tocbasic.sty
+Package: tocbasic 2022/10/12 v3.38 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip48
+\scr@dte@tocline@numbox=\box51
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 135.
+Package scrartcl Info: You've used standard option `12pt'.
+(scrartcl)             This is correct!
+(scrartcl)             Internally I'm using `fontsize=12pt'.
+(scrartcl)             If you'd like to set the option with \KOMAoptions,
+(scrartcl)             you'd have to use `fontsize=12pt' there
+(scrartcl)             instead of `12pt', too.
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
+ine 2367.
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/koma-scr
+ipt\scrsize12pt.clo
+File: scrsize12pt.clo 2022/10/12 v3.38 KOMA-Script font size class option (12pt
+)
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/koma-scr
+ipt\typearea.sty
+Package: typearea 2022/10/12 v3.38 KOMA-Script package (type area)
+\ta@bcor=\skip49
+\ta@div=\count185
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip50
+\ta@vblk=\skip51
+\ta@temp=\skip52
+\footheight=\skip53
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 27.31467pt
+(typearea)              \oddsidemargin  = -22.47766pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1767.
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\scr@dte@section@maxnumwidth=\skip54
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4994.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4994.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 5002.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 5012.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 5012.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 5022.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 5022.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 5033.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 5033.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 5043.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 5043.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box52
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 6211.
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count192
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 6227.
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count193
+Class scrartcl Info: Redefining `\numberline' on input line 6397.
+\bibindent=\dimen140
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/base\inp
+utenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/generic/babel\
+babel.sty
+Package: babel 2023/02/13 3.86 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen141
+\l@unhyphenated=\language84
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/generic/babel\
+txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bb
+lopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/babel-ge
+rman\ngerman.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/babel-ge
+rman\ngermanb.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+)))
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/generic/babel/
+locale/de\babel-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+)
+
+Class scrartcl Warning: Usage of package `fancyhdr' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use 
+(scrartcl)              package `scrlayer' or `scrlayer-scrpage', because
+(scrartcl)              they support KOMA-Script classes.
+(scrartcl)              With `fancyhdr' several features of class `scrartcl'
+(scrartcl)              like options `headsepline', `footsepline' or command
+(scrartcl)              `\MakeMarkcase' and the commands `\setkomafont' and
+(scrartcl)              `\addtokomafont' for the page style elements need
+(scrartcl)              explicite user intervention to work.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `fancyhdr' on input line 20.
+
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr
+\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip64
+\f@nch@O@elh=\skip65
+\f@nch@O@erh=\skip66
+\f@nch@O@olh=\skip67
+\f@nch@O@orh=\skip68
+\f@nch@O@elf=\skip69
+\f@nch@O@erf=\skip70
+\f@nch@O@olf=\skip71
+\f@nch@O@orf=\skip72
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\
+amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip73
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\
+amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\
+amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen142
+))
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\
+amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\
+amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks20
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks21
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks22
+\multlinegap=\skip74
+\multlinetaggap=\skip75
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/geometry
+\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/generic/iftex\
+ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/generic/iftex\
+iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count274
+\Gm@cntv=\count275
+\c@Gm@tempcnt=\count276
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks24
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/geometry
+\geometry.cfg))
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/base\tex
+tcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/tools\ve
+rbatim.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks25
+\verbatim@line=\toks26
+\verbatim@in@stream=\read3
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/tools\ar
+ray.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen161
+\ar@mcellbox=\box55
+\extrarowheight=\dimen162
+\NC@list=\toks27
+\extratabsurround=\skip76
+\backup@length=\skip77
+\ar@cellbox=\box56
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/tools\mu
+lticol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count277
+\mult@box=\box57
+\multicol@leftmargin=\dimen163
+\c@unbalance=\count278
+\c@collectmore=\count279
+\doublecol@number=\count280
+\multicoltolerance=\count281
+\multicolpretolerance=\count282
+\full@width=\dimen164
+\page@free=\dimen165
+\premulticols=\dimen166
+\postmulticols=\dimen167
+\multicolsep=\skip78
+\multicolbaselineskip=\skip79
+\partial@page=\box58
+\last@line=\box59
+\maxbalancingoverflow=\dimen168
+\mult@rightbox=\box60
+\mult@grightbox=\box61
+\mult@firstbox=\box62
+\mult@gfirstbox=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\c@minrows=\count283
+\c@columnbadness=\count284
+\c@finalcolumnbadness=\count285
+\last@try=\dimen169
+\multicolovershoot=\dimen170
+\multicolundershoot=\dimen171
+\mult@nat@firstbox=\box100
+\colbreak@box=\box101
+\mc@col@check@num=\count286
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/multirow
+\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip80
+\multirow@cntb=\count287
+\multirow@dima=\skip81
+\bigstrutjot=\dimen172
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\
+eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box102
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/blindtex
+t\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/tools\xs
+pace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count288
+\c@Blindtext=\count289
+\c@blind@countparstart=\count290
+\blind@countxx=\count291
+\blindtext@numBlindtext=\count292
+\blind@countyy=\count293
+\c@blindlist=\count294
+\c@blindlistlevel=\count295
+\c@blindlist@level=\count296
+\blind@listitem=\count297
+\c@blind@listcount=\count298
+\c@blind@levelcount=\count299
+\blind@mathformula=\count300
+\blind@Mathformula=\count301
+\c@blind@randomcount=\count302
+\c@blind@randommax=\count303
+\c@blind@pangramcount=\count304
+\c@blind@pangrammax=\count305
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\l
+ipsum.sty
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/l3packag
+es/l3keys2e\l3keys2e.sty
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel
+\expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/l3backen
+d\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count306
+\l__pdf_internal_box=\box103
+))
+Package: l3keys2e 2023-01-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count307
+\l__lipsum_a_int=\count308
+\l__lipsum_b_int=\count309
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\l
+ipsum.ltd.tex))
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/generic/soul\s
+oul.sty
+Package: soul 2023-02-18 v3.0 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/generic/soul\s
+oul-ori.sty
+Package: soul-ori 2023-02-18 v3.0 letterspacing/underlining (mf)
+\SOUL@word=\toks28
+\SOUL@lasttoken=\toks29
+\SOUL@syllable=\toks30
+\SOUL@cmds=\toks31
+\SOUL@buffer=\toks32
+\SOUL@token=\toks33
+\SOUL@syllgoal=\dimen173
+\SOUL@syllwidth=\dimen174
+\SOUL@charkern=\dimen175
+\SOUL@hyphkern=\dimen176
+\SOUL@dimen=\dimen177
+\SOUL@dimeni=\dimen178
+\SOUL@minus=\count310
+\SOUL@comma=\count311
+\SOUL@apo=\count312
+\SOUL@grave=\count313
+\SOUL@spaceskip=\skip82
+\SOUL@ttwidth=\dimen179
+\SOUL@uldp=\dimen180
+\SOUL@ulht=\dimen181
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/generic/infwar
+err\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/generic/etexcm
+ds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\
+wrapfig.sty
+\wrapoverhang=\dimen182
+\WF@size=\dimen183
+\c@WF@wrappedlines=\count314
+\WF@box=\box104
+\WF@everypar=\toks34
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/textpos\
+textpos.sty
+Package: textpos 2022/07/23 v1.10.1
+Package textpos Info: choosing support for LaTeX3 on input line 60.
+\TP@textbox=\box105
+\TP@holdbox=\box106
+\TPHorizModule=\dimen184
+\TPVertModule=\dimen185
+\TP@margin=\dimen186
+\TP@absmargin=\dimen187
+
+Grid set 16 x 16 = 37.34424pt x 52.81541pt
+\TPboxrulesize=\dimen188
+\TP@ox=\dimen189
+\TP@oy=\dimen190
+\TP@tbargs=\toks35
+TextBlockOrigin set to 0pt x 0pt
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/subfigur
+e\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip83
+\subfigcapskip=\skip84
+\subfigcaptopadj=\dimen191
+\subfigbottomskip=\skip85
+\subfigcapmargin=\dimen192
+\subfiglabelskip=\skip86
+\c@subfigure=\count315
+\c@lofdepth=\count316
+\c@subtable=\count317
+\c@lotdepth=\count318
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/subfigur
+e\subfigure.cfg)
+\subfig@top=\skip87
+\subfig@bottom=\skip88
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/dblfloat
+fix\dblfloatfix.sty
+Package: dblfloatfix 2012/12/31 v1.0a (JAW)
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/base\fix
+ltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+)
+\@dblbotnum=\count319
+\c@dblbotnumber=\count320
+)) (VaBlaetterWS2023.aux)
+\openout1 = `VaBlaetterWS2023.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/context/base/m
+kii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count321
+\scratchdimen=\dimen193
+\scratchbox=\box107
+\nofMPsegments=\count322
+\nofMParguments=\count323
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count324
+\MPscratchDim=\dimen194
+\MPnumerator=\count325
+\makeMPintoPDFobject=\count326
+\everyMPtoPDFconversion=\toks37
+)
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf
+-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Sebastian vonder Ley\AppData\Local\Programs\MiKTeX\tex/latex/00miktex
+\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(62.59605pt, 460.93466pt, 73.97716pt)
+* v-part:(T,H,B)=(85.35826pt, 645.87756pt, 113.81102pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=460.93466pt
+* \textheight=645.87756pt
+* \oddsidemargin=-9.67393pt
+* \evensidemargin=1.70717pt
+* \topmargin=-26.78673pt
+* \headheight=26.0pt
+* \headsep=21.75pt
+* \topskip=12.0pt
+* \footskip=113.81102pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=30.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Redefining \end@dblfloat\ for use with subfigure
+(Titelseite.tex
+<Titelseite/cover.png, id=1, 298.83646pt x 422.5386pt>
+File: Titelseite/cover.png Graphic file (type png)
+<use Titelseite/cover.png>
+Package pdftex.def Info: Titelseite/cover.png  used on input line 9.
+(pdftex.def)             Requested size: 597.50787pt x 844.9075pt.
+
+Overfull \hbox (485.47516pt too wide) in paragraph at lines 9--10
+[][] 
+ []
+
+[1
+
+ <./Titelseite/cover.png (PNG copy)>]) (VaBlaetterWS2023.toc)
+\tf@toc=\write3
+\openout3 = `VaBlaetterWS2023.toc'.
+
+ [2{C:/Users/Sebastian vonder Ley/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.
+map}
+
+]
+(Artikel/impressum.tex
+<Bilder/chargen/chargen-sommersemester- 2023.JPG, id=13, 449.0376pt x 298.2342p
+t>
+File: Bilder/chargen/chargen-sommersemester- 2023.JPG Graphic file (type jpg)
+<use Bilder/chargen/chargen-sommersemester- 2023.JPG>
+Package pdftex.def Info: Bilder/chargen/chargen-sommersemester- 2023.JPG  used 
+on input line 9.
+(pdftex.def)             Requested size: 368.74913pt x 244.90858pt.
+
+Overfull \hbox (57.51625pt too wide) in paragraph at lines 19--23
+[][] 
+ []
+
+
+Overfull \hbox (13.91953pt too wide) in paragraph at lines 50--65
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--65
+
+ []
+
+[3
+
+ <./Bilder/chargen/chargen-sommersemester- 2023.JPG>])
+(Artikel/vorwort_senior.tex [4
+
+
+] [5]) [6] (Artikel/kneiprede.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--48
+
+ []
+
+[7
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 49--66
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 67--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--132
+\OT1/cmr/m/n/12 ernst-haft dar-an ge-ar-bei-tet. Und als
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 93--132
+\OT1/cmr/m/n/12 fah-ren konn-tet, sch[]one Er-in-ne-run-gen.
+ []
+
+[9] [10]) [11] (Artikel/artikel_fuxenfahrtss2022.tex [12]
+<Bilder/fuxenfahrtss22/fuxenfahrtss22.png, id=51, 306.39468pt x 642.90187pt>
+File: Bilder/fuxenfahrtss22/fuxenfahrtss22.png Graphic file (type png)
+<use Bilder/fuxenfahrtss22/fuxenfahrtss22.png>
+Package pdftex.def Info: Bilder/fuxenfahrtss22/fuxenfahrtss22.png  used on inpu
+t line 76.
+(pdftex.def)             Requested size: 299.6047pt x 628.68578pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <./Bilder/fuxenfahrtss22/fuxenfahrtss22.png>]) (Artikel/artikel_maifestss2
+2.tex
+[14]) [15] (Artikel/artikel_kirchturm.tex) [16]
+(Artikel/BilderBegrüßungsabendWS2022.tex
+<Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (1).JPG, id=65, 516.4896pt x
+ 343.0416pt>
+File: Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (1).JPG Graphic file (t
+ype jpg)
+<use Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (1).JPG>
+Package pdftex.def Info: Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (1).
+JPG  used on input line 17.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (2).JPG, id=66, 516.4896pt x
+ 343.0416pt>
+File: Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (2).JPG Graphic file (t
+ype jpg)
+<use Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (2).JPG>
+Package pdftex.def Info: Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (2).
+JPG  used on input line 18.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (3).JPG, id=67, 516.4896pt x
+ 343.0416pt>
+File: Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (3).JPG Graphic file (t
+ype jpg)
+<use Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (3).JPG>
+Package pdftex.def Info: Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (3).
+JPG  used on input line 20.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (4).JPG, id=68, 516.4896pt x
+ 343.0416pt>
+File: Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (4).JPG Graphic file (t
+ype jpg)
+<use Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (4).JPG>
+Package pdftex.def Info: Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (4).
+JPG  used on input line 21.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+) [17 <./Bilder/begrüßungsabend/Begrüßungsabend-WS2022 (1).JPG> <./Bilder/b
+egrüßungsabend/Begrüßungsabend-WS2022 (2).JPG> <./Bilder/begrüßungsabend/
+Begrüßungsabend-WS2022 (3).JPG> <./Bilder/begrüßungsabend/Begrüßungsabend
+-WS2022 (4).JPG>]
+(Artikel/artikel_fuxenfahrtws2022.tex
+<Bilder/fuxenfahrt/fuxenfahrtwürzburg (4).jpg, id=72, 1027.84pt x 770.88pt>
+File: Bilder/fuxenfahrt/fuxenfahrtwürzburg (4).jpg Graphic file (type jpg)
+<use Bilder/fuxenfahrt/fuxenfahrtwürzburg (4).jpg>
+Package pdftex.def Info: Bilder/fuxenfahrt/fuxenfahrtwürzburg (4).jpg  used on
+ input line 12.
+(pdftex.def)             Requested size: 368.74913pt x 276.56381pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--75
+
+ []
+
+[18 <./Bilder/fuxenfahrt/fuxenfahrtwürzburg (4).jpg>]
+<Bilder/fuxenfahrt/fuxenfahrtwürzburg (3).jpg, id=76, 1606.0pt x 1207.51125pt>
+
+File: Bilder/fuxenfahrt/fuxenfahrtwürzburg (3).jpg Graphic file (type jpg)
+<use Bilder/fuxenfahrt/fuxenfahrtwürzburg (3).jpg>
+Package pdftex.def Info: Bilder/fuxenfahrt/fuxenfahrtwürzburg (3).jpg  used on
+ input line 85.
+(pdftex.def)             Requested size: 368.74913pt x 277.24269pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19])
+[20 <./Bilder/fuxenfahrt/fuxenfahrtwürzburg (3).jpg>]
+(Artikel/BilderAnkneipeWS2022.tex
+<Bilder/ankneipe/AnkneipeWS2022 (1).JPG, id=84, 516.4896pt x 343.0416pt>
+File: Bilder/ankneipe/AnkneipeWS2022 (1).JPG Graphic file (type jpg)
+<use Bilder/ankneipe/AnkneipeWS2022 (1).JPG>
+Package pdftex.def Info: Bilder/ankneipe/AnkneipeWS2022 (1).JPG  used on input 
+line 17.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/ankneipe/AnkneipeWS2022 (2).JPG, id=85, 516.4896pt x 343.0416pt>
+File: Bilder/ankneipe/AnkneipeWS2022 (2).JPG Graphic file (type jpg)
+<use Bilder/ankneipe/AnkneipeWS2022 (2).JPG>
+Package pdftex.def Info: Bilder/ankneipe/AnkneipeWS2022 (2).JPG  used on input 
+line 18.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/ankneipe/AnkneipeWS2022 (3).JPG, id=86, 516.4896pt x 343.0416pt>
+File: Bilder/ankneipe/AnkneipeWS2022 (3).JPG Graphic file (type jpg)
+<use Bilder/ankneipe/AnkneipeWS2022 (3).JPG>
+Package pdftex.def Info: Bilder/ankneipe/AnkneipeWS2022 (3).JPG  used on input 
+line 20.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/ankneipe/AnkneipeWS2022 (4).JPG, id=87, 516.4896pt x 343.0416pt>
+File: Bilder/ankneipe/AnkneipeWS2022 (4).JPG Graphic file (type jpg)
+<use Bilder/ankneipe/AnkneipeWS2022 (4).JPG>
+Package pdftex.def Info: Bilder/ankneipe/AnkneipeWS2022 (4).JPG  used on input 
+line 21.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+) [21 <./Bilder/ankneipe/AnkneipeWS2022 (1).JPG> <./Bilder/ankneipe/AnkneipeWS2
+022 (2).JPG> <./Bilder/ankneipe/AnkneipeWS2022 (3).JPG> <./Bilder/ankneipe/Ankn
+eipeWS2022 (4).JPG>]
+(Artikel/artikel_rhetorik.tex
+<Bilder/vortragmoritzg/Vortrag-AH-Moritz-WS 2022 (1).JPG, id=91, 516.4896pt x 3
+43.0416pt>
+File: Bilder/vortragmoritzg/Vortrag-AH-Moritz-WS 2022 (1).JPG Graphic file (typ
+e jpg)
+<use Bilder/vortragmoritzg/Vortrag-AH-Moritz-WS 2022 (1).JPG>
+Package pdftex.def Info: Bilder/vortragmoritzg/Vortrag-AH-Moritz-WS 2022 (1).JP
+G  used on input line 6.
+(pdftex.def)             Requested size: 368.74913pt x 244.92216pt.
+
+
+Package fancyhdr Warning: \headheight is too small (26.0pt): 
+(fancyhdr)                Make it at least 37.19003pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.19003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.19003pt}.
+
+[22 <./Bilder/vortragmoritzg/Vortrag-AH-Moritz-WS 2022 (1).JPG>]
+<Bilder/vortragmoritzg/Vortrag-AH-Moritz-WS 2022 (2).JPG, id=95, 516.4896pt x 3
+43.0416pt>
+File: Bilder/vortragmoritzg/Vortrag-AH-Moritz-WS 2022 (2).JPG Graphic file (typ
+e jpg)
+<use Bilder/vortragmoritzg/Vortrag-AH-Moritz-WS 2022 (2).JPG>
+Package pdftex.def Info: Bilder/vortragmoritzg/Vortrag-AH-Moritz-WS 2022 (2).JP
+G  used on input line 19.
+(pdftex.def)             Requested size: 368.74913pt x 244.92216pt.
+
+
+Package fancyhdr Warning: \headheight is too small (26.0pt): 
+(fancyhdr)                Make it at least 37.19003pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.19003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.19003pt}.
+
+[23 <./Bilder/vortragmoritzg/Vortrag-AH-Moritz-WS 2022 (2).JPG>]
+
+Package fancyhdr Warning: \headheight is too small (26.0pt): 
+(fancyhdr)                Make it at least 37.19003pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.19003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.19003pt}.
+
+[24])
+
+Package fancyhdr Warning: \headheight is too small (26.0pt): 
+(fancyhdr)                Make it at least 37.19003pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.19003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.19003pt}.
+
+[25] (Artikel/BilderKrambabulikneipeWS2022.tex
+<Bilder/krambambulikneipe/KrambambulikneipeWS2022 (1).JPG, id=106, 516.4896pt x
+ 343.0416pt>
+File: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (1).JPG Graphic file (ty
+pe jpg)
+<use Bilder/krambambulikneipe/KrambambulikneipeWS2022 (1).JPG>
+Package pdftex.def Info: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (1).J
+PG  used on input line 17.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/krambambulikneipe/KrambambulikneipeWS2022 (2).JPG, id=107, 516.4896pt x
+ 343.0416pt>
+File: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (2).JPG Graphic file (ty
+pe jpg)
+<use Bilder/krambambulikneipe/KrambambulikneipeWS2022 (2).JPG>
+Package pdftex.def Info: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (2).J
+PG  used on input line 18.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/krambambulikneipe/KrambambulikneipeWS2022 (3).JPG, id=108, 516.4896pt x
+ 343.0416pt>
+File: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (3).JPG Graphic file (ty
+pe jpg)
+<use Bilder/krambambulikneipe/KrambambulikneipeWS2022 (3).JPG>
+Package pdftex.def Info: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (3).J
+PG  used on input line 20.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/krambambulikneipe/KrambambulikneipeWS2022 (4).JPG, id=109, 516.4896pt x
+ 343.0416pt>
+File: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (4).JPG Graphic file (ty
+pe jpg)
+<use Bilder/krambambulikneipe/KrambambulikneipeWS2022 (4).JPG>
+Package pdftex.def Info: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (4).J
+PG  used on input line 21.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/krambambulikneipe/KrambambulikneipeWS2022 (5).JPG, id=110, 516.4896pt x
+ 343.0416pt>
+File: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (5).JPG Graphic file (ty
+pe jpg)
+<use Bilder/krambambulikneipe/KrambambulikneipeWS2022 (5).JPG>
+Package pdftex.def Info: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (5).J
+PG  used on input line 23.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/krambambulikneipe/KrambambulikneipeWS2022 (6).JPG, id=111, 516.4896pt x
+ 343.0416pt>
+File: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (6).JPG Graphic file (ty
+pe jpg)
+<use Bilder/krambambulikneipe/KrambambulikneipeWS2022 (6).JPG>
+Package pdftex.def Info: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (6).J
+PG  used on input line 24.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/krambambulikneipe/KrambambulikneipeWS2022 (7).JPG, id=112, 516.4896pt x
+ 343.0416pt>
+File: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (7).JPG Graphic file (ty
+pe jpg)
+<use Bilder/krambambulikneipe/KrambambulikneipeWS2022 (7).JPG>
+Package pdftex.def Info: Bilder/krambambulikneipe/KrambambulikneipeWS2022 (7).J
+PG  used on input line 26.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+) [26 <./Bilder/krambambulikneipe/KrambambulikneipeWS2022 (1).JPG> <./Bilder/kr
+ambambulikneipe/KrambambulikneipeWS2022 (2).JPG> <./Bilder/krambambulikneipe/Kr
+ambambulikneipeWS2022 (3).JPG> <./Bilder/krambambulikneipe/KrambambulikneipeWS2
+022 (4).JPG> <./Bilder/krambambulikneipe/KrambambulikneipeWS2022 (5).JPG> <./Bi
+lder/krambambulikneipe/KrambambulikneipeWS2022 (6).JPG> <./Bilder/krambambulikn
+eipe/KrambambulikneipeWS2022 (7).JPG>] (Artikel/artikel_akademischerabend.tex) 
+[27]
+(Artikel/BilderGründungsfestws2022.tex
+<Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (2).JPG, id=119, 516.4896pt x
+ 343.0416pt>
+File: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (2).JPG Graphic file (ty
+pe jpg)
+<use Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (2).JPG>
+Package pdftex.def Info: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (2).J
+PG  used on input line 17.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (3).JPG, id=120, 516.4896pt x
+ 343.0416pt>
+File: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (3).JPG Graphic file (ty
+pe jpg)
+<use Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (3).JPG>
+Package pdftex.def Info: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (3).J
+PG  used on input line 18.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (4).JPG, id=121, 516.4896pt x
+ 343.0416pt>
+File: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (4).JPG Graphic file (ty
+pe jpg)
+<use Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (4).JPG>
+Package pdftex.def Info: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (4).J
+PG  used on input line 20.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (5).JPG, id=122, 516.4896pt x
+ 343.0416pt>
+File: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (5).JPG Graphic file (ty
+pe jpg)
+<use Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (5).JPG>
+Package pdftex.def Info: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (5).J
+PG  used on input line 21.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (6).JPG, id=123, 516.4896pt x
+ 343.0416pt>
+File: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (6).JPG Graphic file (ty
+pe jpg)
+<use Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (6).JPG>
+Package pdftex.def Info: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (6).J
+PG  used on input line 23.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (8).JPG, id=124, 516.4896pt x
+ 343.0416pt>
+File: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (8).JPG Graphic file (ty
+pe jpg)
+<use Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (8).JPG>
+Package pdftex.def Info: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (8).J
+PG  used on input line 24.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+<Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (7).JPG, id=125, 516.4896pt x
+ 343.0416pt>
+File: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (7).JPG Graphic file (ty
+pe jpg)
+<use Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (7).JPG>
+Package pdftex.def Info: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (7).J
+PG  used on input line 26.
+(pdftex.def)             Requested size: 207.41919pt x 137.76381pt.
+ [28 <./Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (2).JPG> <./Bilder/gr�
+�ndungsfestws2022/Stiftungsfest-WS2022 (3).JPG> <./Bilder/gründungsfestws2022/
+Stiftungsfest-WS2022 (4).JPG> <./Bilder/gründungsfestws2022/Stiftungsfest-WS20
+22 (5).JPG> <./Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (6).JPG> <./Bil
+der/gründungsfestws2022/Stiftungsfest-WS2022 (8).JPG> <./Bilder/gründungsfest
+ws2022/Stiftungsfest-WS2022 (7).JPG>]
+<Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (9).JPG, id=129, 516.4896pt x
+ 343.0416pt>
+File: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (9).JPG Graphic file (ty
+pe jpg)
+<use Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (9).JPG>
+Package pdftex.def Info: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (9).J
+PG  used on input line 34.
+(pdftex.def)             Requested size: 322.65285pt x 214.30624pt.
+<Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (1).JPG, id=130, 516.4896pt x
+ 343.0416pt>
+File: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (1).JPG Graphic file (ty
+pe jpg)
+<use Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (1).JPG>
+Package pdftex.def Info: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (1).J
+PG  used on input line 42.
+(pdftex.def)             Requested size: 322.65285pt x 214.30624pt.
+
+[29 <./Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (9).JPG> <./Bilder/grü
+ndungsfestws2022/Stiftungsfest-WS2022 (1).JPG>]
+<Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (10).JPG, id=134, 516.4896pt 
+x 343.0416pt>
+File: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (10).JPG Graphic file (t
+ype jpg)
+<use Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (10).JPG>
+Package pdftex.def Info: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (10).
+JPG  used on input line 51.
+(pdftex.def)             Requested size: 322.65285pt x 214.30624pt.
+<Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (11).JPG, id=135, 516.4896pt 
+x 343.0416pt>
+File: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (11).JPG Graphic file (t
+ype jpg)
+<use Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (11).JPG>
+Package pdftex.def Info: Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (11).
+JPG  used on input line 58.
+(pdftex.def)             Requested size: 322.65285pt x 214.30624pt.
+) [30 <./Bilder/gründungsfestws2022/Stiftungsfest-WS2022 (10).JPG> <./Bilder/g
+ründungsfestws2022/Stiftungsfest-WS2022 (11).JPG>] (Artikel/artikel_sudetendeu
+tschesmuseum.tex
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[]\OT1/cmr/m/n/12 Das ers-te The-ma der span-nen-den
+ []
+
+) [31] (Artikel/artikel_bierverköstigung.tex) [32]
+(Artikel/BilderMartinsgansessenWS2022.tex
+<Bilder/martinsgansessen/Martinsgansessen-WS2022(1).JPG, id=146, 516.4896pt x 3
+43.0416pt>
+File: Bilder/martinsgansessen/Martinsgansessen-WS2022(1).JPG Graphic file (type
+ jpg)
+<use Bilder/martinsgansessen/Martinsgansessen-WS2022(1).JPG>
+Package pdftex.def Info: Bilder/martinsgansessen/Martinsgansessen-WS2022(1).JPG
+  used on input line 16.
+(pdftex.def)             Requested size: 414.83838pt x 275.53285pt.
+) [33 <./Bilder/martinsgansessen/Martinsgansessen-WS2022(1).JPG>] (Artikel/arti
+kel_reaktor.tex)
+
+Package fancyhdr Warning: \headheight is too small (26.0pt): 
+(fancyhdr)                Make it at least 36.84007pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.84007pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.84007pt}.
+
+[34] (Artikel/BilderMaifestSS2023.tex
+<Bilder/maifest/maifestSS23 (1).jpg, id=153, 2023.56pt x 1138.2525pt>
+File: Bilder/maifest/maifestSS23 (1).jpg Graphic file (type jpg)
+<use Bilder/maifest/maifestSS23 (1).jpg>
+Package pdftex.def Info: Bilder/maifest/maifestSS23 (1).jpg  used on input line
+ 16.
+(pdftex.def)             Requested size: 207.41919pt x 116.66295pt.
+<Bilder/maifest/maifestSS23 (2).jpg, id=154, 2023.56pt x 1138.2525pt>
+File: Bilder/maifest/maifestSS23 (2).jpg Graphic file (type jpg)
+<use Bilder/maifest/maifestSS23 (2).jpg>
+Package pdftex.def Info: Bilder/maifest/maifestSS23 (2).jpg  used on input line
+ 17.
+(pdftex.def)             Requested size: 207.41919pt x 116.66295pt.
+<Bilder/maifest/maifestSS23 (3).jpg, id=155, 2023.56pt x 1138.2525pt>
+File: Bilder/maifest/maifestSS23 (3).jpg Graphic file (type jpg)
+<use Bilder/maifest/maifestSS23 (3).jpg>
+Package pdftex.def Info: Bilder/maifest/maifestSS23 (3).jpg  used on input line
+ 19.
+(pdftex.def)             Requested size: 207.41919pt x 116.66295pt.
+<Bilder/maifest/maifestSS23 (5).jpg, id=156, 2023.56pt x 1138.2525pt>
+File: Bilder/maifest/maifestSS23 (5).jpg Graphic file (type jpg)
+<use Bilder/maifest/maifestSS23 (5).jpg>
+Package pdftex.def Info: Bilder/maifest/maifestSS23 (5).jpg  used on input line
+ 20.
+(pdftex.def)             Requested size: 207.41919pt x 116.66295pt.
+<Bilder/maifest/maifestSS23 (4).jpg, id=157, 803.0pt x 602.25pt>
+File: Bilder/maifest/maifestSS23 (4).jpg Graphic file (type jpg)
+<use Bilder/maifest/maifestSS23 (4).jpg>
+Package pdftex.def Info: Bilder/maifest/maifestSS23 (4).jpg  used on input line
+ 28.
+(pdftex.def)             Requested size: 207.41919pt x 155.56125pt.
+) [35 <./Bilder/maifest/maifestSS23 (1).jpg> <./Bilder/maifest/maifestSS23 (2).
+jpg> <./Bilder/maifest/maifestSS23 (3).jpg> <./Bilder/maifest/maifestSS23 (5).j
+pg> <./Bilder/maifest/maifestSS23 (4).jpg>] (Artikel/artikel_fronleichnamsproze
+ssion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+) (Artikel/BilderFronleichnamSS2023.tex
+<Bilder/fronleichnam/fronleichnam (1).jpg, id=161, 1541.76pt x 2055.68pt>
+File: Bilder/fronleichnam/fronleichnam (1).jpg Graphic file (type jpg)
+<use Bilder/fronleichnam/fronleichnam (1).jpg>
+Package pdftex.def Info: Bilder/fronleichnam/fronleichnam (1).jpg  used on inpu
+t line 16.
+(pdftex.def)             Requested size: 207.41919pt x 276.53244pt.
+<Bilder/fronleichnam/fronleichnam (2).jpg, id=162, 1541.76pt x 2055.68pt>
+File: Bilder/fronleichnam/fronleichnam (2).jpg Graphic file (type jpg)
+<use Bilder/fronleichnam/fronleichnam (2).jpg>
+Package pdftex.def Info: Bilder/fronleichnam/fronleichnam (2).jpg  used on inpu
+t line 17.
+(pdftex.def)             Requested size: 207.41919pt x 276.53244pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+<Bilder/fronleichnam/fronleichnam (3).jpg, id=166, 1541.76pt x 2055.68pt>
+File: Bilder/fronleichnam/fronleichnam (3).jpg Graphic file (type jpg)
+<use Bilder/fronleichnam/fronleichnam (3).jpg>
+Package pdftex.def Info: Bilder/fronleichnam/fronleichnam (3).jpg  used on inpu
+t line 19.
+(pdftex.def)             Requested size: 207.41919pt x 276.53244pt.
+<Bilder/fronleichnam/fronleichnam (4).jpg, id=167, 1541.76pt x 2055.68pt>
+File: Bilder/fronleichnam/fronleichnam (4).jpg Graphic file (type jpg)
+<use Bilder/fronleichnam/fronleichnam (4).jpg>
+Package pdftex.def Info: Bilder/fronleichnam/fronleichnam (4).jpg  used on inpu
+t line 20.
+(pdftex.def)             Requested size: 207.41919pt x 276.53244pt.
+)
+[37 <./Bilder/fronleichnam/fronleichnam (1).jpg> <./Bilder/fronleichnam/fronlei
+chnam (2).jpg> <./Bilder/fronleichnam/fronleichnam (3).jpg> <./Bilder/fronleich
+nam/fronleichnam (4).jpg>] (Artikel/artikel_sbahn.tex
+<Bilder/artikel/sbahn(1).jpg, id=172, 2007.5pt x 1505.625pt>
+File: Bilder/artikel/sbahn(1).jpg Graphic file (type jpg)
+<use Bilder/artikel/sbahn(1).jpg>
+Package pdftex.def Info: Bilder/artikel/sbahn(1).jpg  used on input line 7.
+(pdftex.def)             Requested size: 276.5636pt x 207.40889pt.
+
+Underfull \hbox (badness 7186) in paragraph at lines 13--15
+\OT1/cmr/m/n/12 Die-se Pr[]asenz r[]uhrt nicht nur von
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+\OT1/cmr/m/n/12 der me-dia-len Be-richt-er-stat-tung []uber
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+
+ []
+
+[38 <./Bilder/artikel/sbahn(1).jpg>] [39]
+<Bilder/artikel/sbahn.jpg, id=179, 371.4678pt x 209.1012pt>
+File: Bilder/artikel/sbahn.jpg Graphic file (type jpg)
+<use Bilder/artikel/sbahn.jpg>
+Package pdftex.def Info: Bilder/artikel/sbahn.jpg  used on input line 38.
+(pdftex.def)             Requested size: 368.74913pt x 207.58513pt.
+) [40 <./Bilder/artikel/sbahn.jpg>]
+(Artikel/Todesanzeigen.tex
+<Todesanzeigen/bildformat/georg-schwarzfischer.png, id=183, 752.8125pt x 484.81
+125pt>
+File: Todesanzeigen/bildformat/georg-schwarzfischer.png Graphic file (type png)
+
+<use Todesanzeigen/bildformat/georg-schwarzfischer.png>
+Package pdftex.def Info: Todesanzeigen/bildformat/georg-schwarzfischer.png  use
+d on input line 8.
+(pdftex.def)             Requested size: 414.83838pt x 267.16484pt.
+<Todesanzeigen/bildformat/wilhelm-verse.png, id=185, 602.25pt x 687.31781pt>
+File: Todesanzeigen/bildformat/wilhelm-verse.png Graphic file (type png)
+<use Todesanzeigen/bildformat/wilhelm-verse.png>
+Package pdftex.def Info: Todesanzeigen/bildformat/wilhelm-verse.png  used on in
+put line 11.
+(pdftex.def)             Requested size: 368.74913pt x 420.84688pt.
+
+
+LaTeX Warning: Float too large for page by 84.5869pt on input line 14.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Todesanzeigen/bildformat/michaelchristianbaumanntraueranzeige.png, id=186, 602
+.25pt x 521.69907pt>
+File: Todesanzeigen/bildformat/michaelchristianbaumanntraueranzeige.png Graphic
+ file (type png)
+<use Todesanzeigen/bildformat/michaelchristianbaumanntraueranzeige.png>
+Package pdftex.def Info: Todesanzeigen/bildformat/michaelchristianbaumanntrauer
+anzeige.png  used on input line 25.
+(pdftex.def)             Requested size: 414.83838pt x 359.36774pt.
+<Todesanzeigen/bildformat/TraueranzeigeLudwigBauer.png, id=187, 714.7503pt x 50
+4.4446pt>
+File: Todesanzeigen/bildformat/TraueranzeigeLudwigBauer.png Graphic file (type 
+png)
+<use Todesanzeigen/bildformat/TraueranzeigeLudwigBauer.png>
+Package pdftex.def Info: Todesanzeigen/bildformat/TraueranzeigeLudwigBauer.png 
+ used on input line 28.
+(pdftex.def)             Requested size: 414.83838pt x 292.78589pt.
+
+LaTeX Warning: Float too large for page by 48.7288pt on input line 31.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Todesanzeigen/bildformat/TraueranzeigeJohannKrammer.jpg, id=188, 740.7675pt x 
+472.01344pt>
+File: Todesanzeigen/bildformat/TraueranzeigeJohannKrammer.jpg Graphic file (typ
+e jpg)
+<use Todesanzeigen/bildformat/TraueranzeigeJohannKrammer.jpg>
+Package pdftex.def Info: Todesanzeigen/bildformat/TraueranzeigeJohannKrammer.jp
+g  used on input line 37.
+(pdftex.def)             Requested size: 414.83838pt x 264.33292pt.
+<Todesanzeigen/bildformat/RiesterBernhard.png, id=189, 386.6445pt x 292.6935pt>
+
+File: Todesanzeigen/bildformat/RiesterBernhard.png Graphic file (type png)
+<use Todesanzeigen/bildformat/RiesterBernhard.png>
+Package pdftex.def Info: Todesanzeigen/bildformat/RiesterBernhard.png  used on 
+input line 41.
+(pdftex.def)             Requested size: 414.83838pt x 314.04984pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [41 <./Todesanzeigen/bildformat/georg-schwarzfischer.png> <./Todesanzeigen/bi
+ldformat/wilhelm-verse.png>] [42 <./Todesanzeigen/bildformat/michaelchristianba
+umanntraueranzeige.png> <./Todesanzeigen/bildformat/TraueranzeigeLudwigBauer.pn
+g>] [43 <./Todesanzeigen/bildformat/TraueranzeigeJohannKrammer.jpg> <./Todesanz
+eigen/bildformat/RiesterBernhard.png>] (Artikel/VaGratuliert.tex
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--105
+
+ []
+
+) [44
+
+] (VaBlaetterWS2023.aux) ) 
+Here is how much of TeX's memory you used:
+ 9168 strings out of 476296
+ 199238 string characters out of 5778911
+ 1873382 words of memory out of 5000000
+ 29335 multiletter control sequences out of 15000+600000
+ 521004 words of font info for 62 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 113i,13n,109p,10632b,482s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{C:/Users/Sebastian vonder Ley/AppData/Local/Programs
+/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<C:/Users/Sebastian vonder Le
+y/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/U
+sers/Sebastian vonder Ley/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Users/Sebastian vonder Ley/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Sebastian vonder Ley/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Se
+bastian vonder Ley/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><C:/Users/Sebastian vonder Ley/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmr17.pfb><C:/Users/Sebastian vonder Ley/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Sebastian von
+der Ley/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.p
+fb><C:/Users/Sebastian vonder Ley/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb><C:/Users/Sebastian vonder Ley/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on VaBlaetterWS2023.pdf (44 pages, 22446543 bytes).
+PDF statistics:
+ 253 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 256 words of extra memory for PDF output out of 10000 (max. 10000000)
+
