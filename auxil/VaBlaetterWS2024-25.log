@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  28 MAR 2025 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  28 MAR 2025 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -958,82 +958,31 @@ Package fancyhdr Warning: \headheight is too small (26.0pt):
 [21] (Artikel/artikel_Neubewertung des Fuxen.tex [22])
 
 [23] (Artikel/Todesanzeigen.tex
-<./Todesanzeigen/2023.06.16 Prof.Dr.Joseph Pfab.png, id=97, 499.11469pt x 304.8
-8907pt>
-File: ./Todesanzeigen/2023.06.16 Prof.Dr.Joseph Pfab.png Graphic file (type png
+<./Todesanzeigen/23.07.2024 Ute Fest.png.png, id=97, 668.4975pt x 367.3725pt>
+File: ./Todesanzeigen/23.07.2024 Ute Fest.png.png Graphic file (type png)
+<use ./Todesanzeigen/23.07.2024 Ute Fest.png.png>
+Package pdftex.def Info: ./Todesanzeigen/23.07.2024 Ute Fest.png.png  used on i
+nput line 11.
+(pdftex.def)             Requested size: 414.83838pt x 227.9816pt.
+<./Todesanzeigen/19.02.2025 Peter Laska neu.png.png, id=98, 454.69875pt x 402.7
+5468pt>
+File: ./Todesanzeigen/19.02.2025 Peter Laska neu.png.png Graphic file (type png
 )
-<use ./Todesanzeigen/2023.06.16 Prof.Dr.Joseph Pfab.png>
-Package pdftex.def Info: ./Todesanzeigen/2023.06.16 Prof.Dr.Joseph Pfab.png  us
-ed on input line 11.
-(pdftex.def)             Requested size: 414.83838pt x 253.41608pt.
-<./Todesanzeigen/2023.10.19 Karl Irbner NEU.png, id=98, 1204.5pt x 610.28pt>
-File: ./Todesanzeigen/2023.10.19 Karl Irbner NEU.png Graphic file (type png)
-<use ./Todesanzeigen/2023.10.19 Karl Irbner NEU.png>
-Package pdftex.def Info: ./Todesanzeigen/2023.10.19 Karl Irbner NEU.png  used o
-n input line 14.
-(pdftex.def)             Requested size: 437.88652pt x 221.86104pt.
+<use ./Todesanzeigen/19.02.2025 Peter Laska neu.png.png>
+Package pdftex.def Info: ./Todesanzeigen/19.02.2025 Peter Laska neu.png.png  us
+ed on input line 14.
+(pdftex.def)             Requested size: 414.83838pt x 367.45374pt.
 
 
-[24 <./Todesanzeigen/2023.06.16 Prof.Dr.Joseph Pfab.png> <./Todesanzeigen/2023.
-10.19 Karl Irbner NEU.png>]
-<./Todesanzeigen/2023.12.08Hermann Grotkamp.png, id=103, 513.41812pt x 303.3834
-4pt>
-File: ./Todesanzeigen/2023.12.08Hermann Grotkamp.png Graphic file (type png)
-<use ./Todesanzeigen/2023.12.08Hermann Grotkamp.png>
-Package pdftex.def Info: ./Todesanzeigen/2023.12.08Hermann Grotkamp.png  used o
-n input line 26.
-(pdftex.def)             Requested size: 414.83838pt x 245.1328pt.
-<./Todesanzeigen/2023.12.28 Wilfried Schneider.png, id=104, 506.6428pt x 295.85
-532pt>
-File: ./Todesanzeigen/2023.12.28 Wilfried Schneider.png Graphic file (type png)
+LaTeX Warning: Float too large for page by 15.39156pt on input line 16.
 
-<use ./Todesanzeigen/2023.12.28 Wilfried Schneider.png>
-Package pdftex.def Info: ./Todesanzeigen/2023.12.28 Wilfried Schneider.png  use
-d on input line 30.
-(pdftex.def)             Requested size: 414.83838pt x 242.2508pt.
-
-
-[25 <./Todesanzeigen/2023.12.08Hermann Grotkamp.png> <./Todesanzeigen/2023.12.2
-8 Wilfried Schneider.png>]
-<./Todesanzeigen/2024.01.05 Kurz_Roland.png, id=111, 552.0625pt x 361.35pt>
-File: ./Todesanzeigen/2024.01.05 Kurz_Roland.png Graphic file (type png)
-<use ./Todesanzeigen/2024.01.05 Kurz_Roland.png>
-Package pdftex.def Info: ./Todesanzeigen/2024.01.05 Kurz_Roland.png  used on in
-put line 38.
-(pdftex.def)             Requested size: 414.83838pt x 271.54115pt.
-<./Todesanzeigen/2024.01.28 Karl Alexander Jaehn NEU.png.png, id=112, 629.35126
-pt x 506.6428pt>
-File: ./Todesanzeigen/2024.01.28 Karl Alexander Jaehn NEU.png.png Graphic file 
-(type png)
-<use ./Todesanzeigen/2024.01.28 Karl Alexander Jaehn NEU.png.png>
-Package pdftex.def Info: ./Todesanzeigen/2024.01.28 Karl Alexander Jaehn NEU.pn
-g.png  used on input line 41.
-(pdftex.def)             Requested size: 414.83838pt x 333.95236pt.
-
-
-LaTeX Warning: Float too large for page by 13.75922pt on input line 43.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<./Todesanzeigen/2024.02.16 Dr.Kurt BröcknerNEU.png, id=113, 1107.13625pt x 63
-2.3625pt>
-File: ./Todesanzeigen/2024.02.16 Dr.Kurt BröcknerNEU.png Graphic file (type pn
-g)
-<use ./Todesanzeigen/2024.02.16 Dr.Kurt BröcknerNEU.png>
-Package pdftex.def Info: ./Todesanzeigen/2024.02.16 Dr.Kurt BröcknerNEU.png  u
-sed on input line 48.
-(pdftex.def)             Requested size: 414.83838pt x 236.94237pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
 
-[26 <./Todesanzeigen/2024.01.05 Kurz_Roland.png> <./Todesanzeigen/2024.01.28 Ka
-rl Alexander Jaehn NEU.png.png>]
-
-[27 <./Todesanzeigen/2024.02.16 Dr.Kurt BröcknerNEU.png>]
-(Artikel/VaGratuliert.tex
+[24 <./Todesanzeigen/23.07.2024 Ute Fest.png.png> <./Todesanzeigen/19.02.2025 P
+eter Laska neu.png.png>] (Artikel/VaGratuliert.tex
 Underfull \hbox (badness 10000) in paragraph at lines 14--22
 
  []
@@ -1085,7 +1034,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--105
 
 )
 
-[28
+[25
 
 ]
 (C:/Users\leona\PycharmProjects\Vandalenblaetter\auxil\VaBlaetterWS2024-25.aux)
@@ -1095,10 +1044,10 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 11542 strings out of 473523
- 231661 string characters out of 5714630
+ 11511 strings out of 473523
+ 229823 string characters out of 5714630
  883355 words of memory out of 5000000
- 34558 multiletter control sequences out of 15000+600000
+ 34527 multiletter control sequences out of 15000+600000
  567931 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  113i,13n,110p,10935b,626s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1116,9 +1065,9 @@ ers/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10
 .pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmti12.pfb>
 Output written on C:/Users\leona\PycharmProjects\Vandalenblaetter\out\VaBlaette
-rWS2024-25.pdf (28 pages, 53336621 bytes).
+rWS2024-25.pdf (25 pages, 53024219 bytes).
 PDF statistics:
- 172 PDF objects out of 1000 (max. 8388607)
+ 156 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
