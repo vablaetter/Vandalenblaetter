@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  28 MAR 2025 15:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  28 MAR 2025 15:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -990,14 +990,16 @@ ed on input line 19.
 (pdftex.def)             Requested size: 460.93466pt x 390.86696pt.
  [24 <./Bilder/Neue Bilder/Fuechse/Fuechse_Vorstellung.png>])
 
-[25] (Artikel/Todesanzeigen.tex
-<./Todesanzeigen/23.07.2024 Ute Fest.png.png, id=108, 668.4975pt x 367.3725pt>
+[25] (Artikel/18_Stiftungsfesteinladung.tex)
+
+[26] (Artikel/Todesanzeigen.tex
+<./Todesanzeigen/23.07.2024 Ute Fest.png.png, id=111, 668.4975pt x 367.3725pt>
 File: ./Todesanzeigen/23.07.2024 Ute Fest.png.png Graphic file (type png)
 <use ./Todesanzeigen/23.07.2024 Ute Fest.png.png>
 Package pdftex.def Info: ./Todesanzeigen/23.07.2024 Ute Fest.png.png  used on i
 nput line 11.
 (pdftex.def)             Requested size: 414.83838pt x 227.9816pt.
-<./Todesanzeigen/19.02.2025 Peter Laska neu.png.png, id=109, 454.69875pt x 402.
+<./Todesanzeigen/19.02.2025 Peter Laska neu.png.png, id=112, 454.69875pt x 402.
 75468pt>
 File: ./Todesanzeigen/19.02.2025 Peter Laska neu.png.png Graphic file (type png
 )
@@ -1014,7 +1016,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
 
-[26 <./Todesanzeigen/23.07.2024 Ute Fest.png.png> <./Todesanzeigen/19.02.2025 P
+[27 <./Todesanzeigen/23.07.2024 Ute Fest.png.png> <./Todesanzeigen/19.02.2025 P
 eter Laska neu.png.png>] (Artikel/VaGratuliert.tex
 Underfull \hbox (badness 10000) in paragraph at lines 14--17
 
@@ -1047,7 +1049,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--88
 
 )
 
-[27
+[28
 
 ]
 (C:/Users\leona\PycharmProjects\Vandalenblaetter\auxil\VaBlaetterWS2024-25.aux)
@@ -1057,10 +1059,10 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 11629 strings out of 473523
- 235768 string characters out of 5714630
+ 11637 strings out of 473523
+ 236152 string characters out of 5714630
  882355 words of memory out of 5000000
- 34631 multiletter control sequences out of 15000+600000
+ 34636 multiletter control sequences out of 15000+600000
  567554 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  113i,12n,110p,10935b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1077,9 +1079,9 @@ ona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
 i12.pfb>
 Output written on C:/Users\leona\PycharmProjects\Vandalenblaetter\out\VaBlaette
-rWS2024-25.pdf (27 pages, 54878186 bytes).
+rWS2024-25.pdf (28 pages, 54883368 bytes).
 PDF statistics:
- 160 PDF objects out of 1000 (max. 8388607)
+ 163 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
