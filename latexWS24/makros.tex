@@ -1,0 +1,238 @@
+%% file: makros.tex
+%% author: Thomas Satzger
+%% date: 08.03.2007
+%% purpose: Diplomarbeit, LaTeX-Definitionen
+
+
+%% Theorem-Umgebungen:
+
+%% Nummerierung nach sections, alle Theoreme mit dem gleichen Zaehler:
+\theorembodyfont{\rmfamily}
+\theoremstyle{break}% neue Zeile nach Theoremueberschrift
+\newtheorem{defi}{Definition}[section]
+\newtheorem{lemma}[defi]{Lemma}
+\newtheorem{satz}[defi]{Satz}
+\newtheorem{kor}[defi]{Korollar}
+\newtheorem{bem}[defi]{Bemerkung}
+\newtheorem{bemerkung}[defi]{Bemerkung}
+\newtheorem{bemerkungen}[defi]{Bemerkungen}
+\newtheorem{beispiel}[defi]{Beispiel}
+\newtheorem{beispiele}[defi]{Beispiele}
+\newtheorem{nothing}[defi]{\hspace{-1ex}}% Umgebung ohne Ueberschrift
+%% TODO: nothing schaut furchtbar aus.
+
+
+%% Umgebungen ohne Nummer:
+% \input thbnone.sty
+% \theoremstyle{bnone}% wie break, nur ohne Nummer
+%\newtheorem{defi*}{Definition ohne Nummer}[section]
+\newtheorem{beispiel*}{Beispiel}[section]
+\newtheorem{beispiele*}{Beispiele}[section]
+\newtheorem{bem*}[beispiel*]{Bemerkung}
+\newtheorem{bemerkung*}[beispiel*]{Bemerkung}
+\newtheorem{bemerkungen*}[beispiel*]{Bemerkungen}
+\newtheorem{folgerung}[beispiel*]{Folgerung}
+\newtheorem{folgerungen}[beispiel*]{Folgerungen}
+%% Beweis:
+%% qed-Kaestchen wird automatisch gesetzt, ausser es wurde schon 
+%% von Hand (per \qed) gesetzt.
+%% Ist eine Liste am Ende vom Beweis (d.h. itemize/enumerate/description),
+%% dann muss \qed nach dem letzten Text (von Hand) eingefuegt werden.
+\newtheorem{beweis}[beispiel*]{Beweis}
+\let\tmpendbeweis=\endbeweis
+\def\endbeweis{\smartqed\tmpendbeweis}
+
+
+%% QED-Kasterl. Am sinnvollsten am Ende eine Absatzes
+%% Klappt im Mathemodus nicht so toll.
+\newif\ifQed\Qedfalse % speichern, ob manuell qed gesagt wurde 
+%% (damit bei \end{beweis} nicht noch ein qed dazu kommt)
+\newcommand{\qed}{\nolinebreak[4]\hfill\rule{1.2ex}{1.2ex}\global\Qedtrue}% 
+%% qed, dass nur bei \Qedfalse gesetzt wird (fuer Beweisumgebung):
+\newcommand{\smartqed}{\ifQed\relax\else\qed\fi\global\Qedfalse}
+
+
+%% Keine Beweise, Beispiele in der Kurzversion:
+%% TODO: Hier kann man noch optimieren (Beispiele rauslassen geht noch nicht).
+\ifKurzversion
+  \let\beweis=\comment
+  \let\endbeweis=\endcomment
+\fi
+
+
+%% enumerate- und itemize-Umgebungen anpassen:
+\partopsep=-\parskip% wirkt bei Absaetzen vor enumerate
+\let\tmpenumerate\enumerate
+\def\enumerate{\par%\vspace{-\topsep}
+\vspace{-\parskip}%
+\vspace{-\partopsep}%
+\tmpenumerate\partopsep=0mm\itemsep=0mm\parsep=0mm}
+
+%% Zwei neue Umgebungen f�r Listen: lista mit Buchstabenz�hlung, und listi mit r�mischen Zahlen
+%% muss noch entwickelt werden
+\newcommand{\listea}{\begin{enumerate}[\medspace (a)]}
+\newcommand{\listeaend}{\end{enumerate}}
+\newcommand{\listei}{\begin{enumerate}[\medspace $(i)$]}
+\newcommand{\listeiend}{\end{enumerate}}
+\newcommand{\liste}{\begin{enumerate}[\medspace 1.]}
+\newcommand{\listeend}{\end{enumerate}}
+
+\newcommand{\nobr}{\nolinebreak}
+
+\newcommand{\vo}{ v\//\/o }
+
+
+%Operatoren
+%\DeclareMathOperator{\rang}{rang}
+%\DeclareMathOperator{\sgn}{sgn}
+
+% \vecn - Allgemeiner 1xn-Spaltenvektor mit Klammern ausnrum
+% F�r Zeilenvektoren nimmt man besser \mat (siehe unten)
+% Beispiel: \vecn{a \\ b \\ c}
+%\newcommand{\vecn}[1]
+%{\left(\begin{array}{c} #1 \end{array}\right)}
+
+% \closure{TEXT} macht einen �berstrich �ber den TEXT,
+% Denke an den Abschluss von Mengen
+\newcommand{\closure}[1]
+{\overline{#1}}
+
+% \mat{SPALTEN}{INHALT} - Matrizen (mit normalen  ( ) )
+% Beispiel: \mat{cc}{a & b \\ c & d}
+\newcommand{\mat}[2]
+{\left(\begin{array}{#1} #2 \end{array}\right)}
+
+% \detmat{SPALTEN}{INHALT} - Determinanten-Matrizen ( | | statt ( ) )
+% Syntax wie bei \mat
+%\newcommand{\detmat}[2] % det ist leider vergeben
+%{\left|\begin{array}{#1} #2 \end{array}\right|}
+
+% \gmat{SPALTEN}{INHALT} - Matrizen mit geschweiften Klammern ( { } statt ( ) )
+% Syntax wie bei \mat
+\newcommand{\gmat}[2] % det ist leider vergeben
+{\left\{\begin{array}{#1} #2 \end{array}\right\}}
+
+
+%% Skalarprodukt:
+%% Das Argument steht zwischen den Klammern.
+\def\skalar#1{\ensuremath{\left\langle #1\right\rangle}}
+
+%% Absolutbetrag (einfache senkrechte Striche, 
+%% Groesse automatisch angepasst):
+%% TODO: In chapter2.tex ab section 5 einfuegen.
+\newcommand{\abs}[1]{\ensuremath{\left|#1\right|}}
+
+%% Norm (doppelte senkrechte Striche, Groesse automatisch angepasst):
+\def\norm#1{\ensuremath{\left\|#1\right\|}}
+
+%% Erzeugendensystem einfach und doppelt
+\def\erz#1{\ensuremath{\left\langle #1\right\rangle}}
+\def\erzerz#1{\ensuremath{\left\langle\left\langle #1\right\rangle\right\rangle}}
+
+%% Stacked Equal: = mit einem mathrm-Text dr�ber
+\newcommand{\smequals}[1]
+{\stackrel{\mbox{\tiny #1}}{=}}
+
+\newcommand{\smany}[2]
+{\stackrel{\mbox{\tiny #1}}{#2}}
+
+
+% Personen-Namen werden in guten B�cher in Kapit�lchen geschrieben
+\newcommand{\name}[1]{\textsc{#1}}
+
+
+%% Mathe-Pfeile:
+% Langer �quivalenzpfeil mit Abst�nden:
+\def\aequiv{\ensuremath{\ \Longleftrightarrow\ }\xspace}
+% Langer Implikationspfeil mit Abst�nden:
+\def\impl{\ensuremath{\ \Longrightarrow\ }\xspace}
+% Definitions�quivalenzpfeil mit Abst�nden:
+\def\define{\ensuremath{\ :\Longleftrightarrow\ }\xspace}
+% Beweis, Hin-Richtung und R�ck-Richtung:
+% Verwendung: 
+%\begin{description}\item[\hin]...\item[\rueck]...\end{description}
+\def\hin{\glqq$\Longrightarrow$\grqq{}}
+\def\rueck{\glqq$\Longleftarrow$\grqq{}}
+% Geschweifte Klammer mit Kommentar unter Formeln:
+% Zuerst den tiefgestellten Text, dann den normalen.
+\def\underbraced#1#2{\ensuremath{\underset{\rule{0mm}{1.5ex}\makebox[0mm]{$\scriptstyle #1$}}{\underbrace{#2}}}}
+% Transponiert:
+%\def\trans{^{\mathsf T}}
+\def\trans{^{\mathrm T}}
+
+% Orthogonal
+\def\ortho{^{\bot}}
+
+
+%% TODO-Makro:
+\def\todo#1{\ifDraft\par{\bfseries TODO: #1}\par\fi}
+%% Marke zum Bild einfuegen, Argument ist z.B. Bildbeschreibung (caption):
+\def\bild#1{\todo{Bild: #1}}
+
+
+%% Makros spezifisch fuer Funktionalanalysis:
+% Topologie (Schreibschrift-T):
+\def\topo{\ensuremath{\mathcal T}}
+% Bidual: Setzt zwei hochgestellte Sterne.
+\def\bidual{\ensuremath{^{\ast\ast}}}
+
+% URL einf�gen
+\DeclareRobustCommand{\urlformat}[1]{\url{#1}} 
+
+%% Bilder einfuegen:
+%% Syntax:
+%%   \abbildung{dateiname}[graphicx-optionen]{Beschriftung}[label]
+%% Argumente: Dateiname (ohne Pfad und Endung), 
+%% Optionen fuer includegraphics (optional), 
+%% caption, Label (optional).
+%% Beispiele:
+%% \abbildung{hausdorff}{Zur Hausdorff-Eigenschaft}
+%% \abbildung{hausdorff}{Zur Hausdorff-Eigenschaft}[fig:hausdorff]
+%% \abbildung{hausdorff}[height=5cm,width=\textwidth,keepaspectratio=]{Zur Hausdorff-Eigenschaft}
+\def\bilderpfad{./bilder/}
+%\ifthenelse{\equal{\driver}{pdftex}}%
+%  {\global\def\bildendung{.pdf}}%
+%  {\global\def\bildendung{.ps}}% 
+\makeatletter
+\def\abbildung#1{\@ifnextchar[{\@bbildung{#1}}{\@bbildung{#1}[scale=1]}}
+\def\@bbildung#1[#2]#3{%
+  \@ifnextchar[{\@bbild@ngl{#1}[#2]{#3}}{\@bbild@ng{#1}[#2]{#3}}}
+\def\@bbild@ng#1[#2]#3{%
+  \begin{figure}[htb]
+    \begin{center}
+      \includegraphics[#2]{\bilderpfad#1}%\bildendung
+      \caption{#3}
+    \end{center}
+  \end{figure}}
+\def\@bbild@ngl#1[#2]#3[#4]{%
+  \begin{figure}[htb]
+    \begin{center}
+      \includegraphics[#2]{\bilderpfad#1}%\bildendung
+      \caption{#3}
+      \label{#4}
+    \end{center}
+  \end{figure}}
+\makeatother
+
+
+
+
+\def\Input{\item[\textbf{Input: }]}
+\def\Output{\item[\textbf{Output: }]}
+\def\comment{\%}
+\def\Given{\item[\textbf{Gegeben: }]}
+\def\False{\ensuremath{\text{\bfseries False}}}
+\def\True{\ensuremath{\text{\bfseries True}}}
+\def\return{\ensuremath{\text{\bfseries Return}}}
+
+\def\var#1{\ensuremath{\textit{#1}}}
+%\renewcommand\algorithmiccomment[1]{ \{#1\}}%
+
+
+\renewcommand\appendix{\par
+\setcounter{section}{0}%
+\setcounter{subsection}{0}%
+\setcounter{figure}{0}
+\renewcommand\thesection{\Alph{section}} %
+\renewcommand\thefigure{\Alph{section}.\ arabic{figure}}} 
+
