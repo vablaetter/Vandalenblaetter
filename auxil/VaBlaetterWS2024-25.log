@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  28 MAR 2025 14:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  28 MAR 2025 15:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -787,7 +787,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--67
 
 [3
 
- <./Bilder/chargen/chargen3.jpg>]) (Artikel/vorwort_phil_senior.tex
+ <./Bilder/chargen/chargen3.jpg>]) (Artikel/1_vorwort_phil_senior.tex
 Underfull \hbox (badness 10000) in paragraph at lines 13--47
 \OT1/cmr/m/n/12 Nichtsdestotrotz sp[]uren wir in den
  []
@@ -797,16 +797,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--47
 
 ])
 
-[5] (Artikel/vorwort_senior.tex)
+[5] (Artikel/2_vorwort_senior.tex)
 
-[6] (Artikel/Rede_Ankneipe.tex)
+[6] (Artikel/3_Rede_Ankneipe.tex)
 
 [7
 
-] (Artikel/artikel_perspektivforum.tex)
+] (Artikel/4_Rede_Rezeptionskneipe.tex)
 
-[8] (Artikel/artikel_ita_abend.tex
-<./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min.png, id=38, 1179.1421pt
+[8] (Artikel/5_artikel_perspektivforum.tex)
+
+[9] (Artikel/6_artikel_ita_abend.tex
+<./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min.png, id=41, 1179.1421pt
  x 556.52655pt>
 File: ./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min.png Graphic file (
 type png)
@@ -814,7 +816,7 @@ type png)
 Package pdftex.def Info: ./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min
 .png  used on input line 42.
 (pdftex.def)             Requested size: 368.74913pt x 174.04149pt.
-<./Bilder/Neue Bilder/Italienischer Abend/DSC_3460-min.png, id=39, 1426.38158pt
+<./Bilder/Neue Bilder/Italienischer Abend/DSC_3460-min.png, id=42, 1426.38158pt
  x 950.92105pt>
 File: ./Bilder/Neue Bilder/Italienischer Abend/DSC_3460-min.png Graphic file (t
 ype png)
@@ -824,17 +826,17 @@ png  used on input line 47.
 (pdftex.def)             Requested size: 322.65285pt x 215.09428pt.
 )
 
-[9 <./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min.png> <./Bilder/Neue 
-Bilder/Italienischer Abend/DSC_3460-min.png>] (Artikel/artikel_Aktivenfahrt.tex
-
+[10 <./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min.png> <./Bilder/Neue
+ Bilder/Italienischer Abend/DSC_3460-min.png>]
+(Artikel/7_artikel_Aktivenfahrt.tex
 Underfull \hbox (badness 6188) in paragraph at lines 29--36
 \OT1/cmr/m/n/12 Zwi-schen den mit Holz []uberdachten
  []
 
 
 
-[10]
-<./Bilder/Neue Bilder/Aktivenfahrt/Aktivenfahrt.png, id=48, 770.88pt x 596.2275
+[11]
+<./Bilder/Neue Bilder/Aktivenfahrt/Aktivenfahrt.png, id=51, 770.88pt x 596.2275
 pt>
 File: ./Bilder/Neue Bilder/Aktivenfahrt/Aktivenfahrt.png Graphic file (type png
 )
@@ -844,8 +846,8 @@ ed on input line 57.
 (pdftex.def)             Requested size: 322.65285pt x 249.54956pt.
 )
 
-[11 <./Bilder/Neue Bilder/Aktivenfahrt/Aktivenfahrt.png>]
-(Artikel/artikel_knotentanzkurs.tex
+[12 <./Bilder/Neue Bilder/Aktivenfahrt/Aktivenfahrt.png>]
+(Artikel/8_artikel_knotentanzkurs.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--17
 
  []
@@ -867,7 +869,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--56
 
 
 
-[12]) (Artikel/artikel_Begrüßungsabend.tex
+[13]) (Artikel/9_artikel_Begrüßungsabend.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--11
 []\OT1/cmr/m/n/12 Am Frei-tag, dem 22. No-vem-ber,
  []
@@ -884,52 +886,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--35
 
 )
 
-[13] (Artikel/artikel_Rauchstopp.tex
+[14] (Artikel/10_Rede_Kommers.tex [15])
 
-[14]) (Artikel/artikel_geistiges_Eigentum.tex)
+[16] (Artikel/11_artikel_Rauchstopp.tex
 
-[15] (Artikel/artikel_Brauereiführung.tex
+[17]) (Artikel/12_artikel_geistiges_Eigentum.tex)
+
+[18] (Artikel/13_artikel_Brauereiführung.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--15
 
  []
 
 )
 
-[16] (Artikel/Bilder_Brauereiführung.tex
-<Bilder/Neue Bilder/Brauereiführung/Brau1.jpg, id=71, 717.68124pt x 447.6725pt
+[19] (Artikel/Bilder_Brauereiführung.tex
+<Bilder/Neue Bilder/Brauereiführung/Brau1.jpg, id=81, 717.68124pt x 447.6725pt
 >
 File: Bilder/Neue Bilder/Brauereiführung/Brau1.jpg Graphic file (type jpg)
 <use Bilder/Neue Bilder/Brauereiführung/Brau1.jpg>
 Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau1.jpg  used on
  input line 5.
 (pdftex.def)             Requested size: 230.46733pt x 143.75677pt.
-<Bilder/Neue Bilder/Brauereiführung/Brau2.jpg, id=72, 713.66624pt x 441.65pt>
+<Bilder/Neue Bilder/Brauereiführung/Brau2.jpg, id=82, 713.66624pt x 441.65pt>
 File: Bilder/Neue Bilder/Brauereiführung/Brau2.jpg Graphic file (type jpg)
 <use Bilder/Neue Bilder/Brauereiführung/Brau2.jpg>
 Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau2.jpg  used on
  input line 8.
 (pdftex.def)             Requested size: 230.46733pt x 142.62477pt.
-<Bilder/Neue Bilder/Brauereiführung/Brau3.jpg, id=73, 600.2425pt x 655.44875pt
+<Bilder/Neue Bilder/Brauereiführung/Brau3.jpg, id=83, 600.2425pt x 655.44875pt
 >
 File: Bilder/Neue Bilder/Brauereiführung/Brau3.jpg Graphic file (type jpg)
 <use Bilder/Neue Bilder/Brauereiführung/Brau3.jpg>
 Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau3.jpg  used on
  input line 9.
 (pdftex.def)             Requested size: 230.46733pt x 251.66345pt.
-<Bilder/Neue Bilder/Brauereiführung/Brau4.jpg, id=74, 564.1075pt x 662.475pt>
+<Bilder/Neue Bilder/Brauereiführung/Brau4.jpg, id=84, 564.1075pt x 662.475pt>
 File: Bilder/Neue Bilder/Brauereiführung/Brau4.jpg Graphic file (type jpg)
 <use Bilder/Neue Bilder/Brauereiführung/Brau4.jpg>
 Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau4.jpg  used on
  input line 12.
 (pdftex.def)             Requested size: 230.46733pt x 270.65619pt.
-<Bilder/Neue Bilder/Brauereiführung/Brau5.jpg, id=75, 668.4975pt x 447.6725pt>
+<Bilder/Neue Bilder/Brauereiführung/Brau5.jpg, id=85, 668.4975pt x 447.6725pt>
 
 File: Bilder/Neue Bilder/Brauereiführung/Brau5.jpg Graphic file (type jpg)
 <use Bilder/Neue Bilder/Brauereiführung/Brau5.jpg>
 Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau5.jpg  used on
  input line 13.
 (pdftex.def)             Requested size: 230.46733pt x 154.33788pt.
-<Bilder/Neue Bilder/Brauereiführung/Brau6.jpg, id=76, 710.655pt x 447.6725pt>
+<Bilder/Neue Bilder/Brauereiführung/Brau6.jpg, id=86, 710.655pt x 447.6725pt>
 File: Bilder/Neue Bilder/Brauereiführung/Brau6.jpg Graphic file (type jpg)
 <use Bilder/Neue Bilder/Brauereiführung/Brau6.jpg>
 Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau6.jpg  used on
@@ -955,16 +959,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[17 <./Bilder/Neue Bilder/Brauereiführung/Brau1.jpg> <./Bilder/Neue Bilder/Bra
+[20 <./Bilder/Neue Bilder/Brauereiführung/Brau1.jpg> <./Bilder/Neue Bilder/Bra
 uereiführung/Brau2.jpg> <./Bilder/Neue Bilder/Brauereiführung/Brau3.jpg> <./B
 ilder/Neue Bilder/Brauereiführung/Brau4.jpg> <./Bilder/Neue Bilder/Brauereifü
 hrung/Brau5.jpg> <./Bilder/Neue Bilder/Brauereiführung/Brau6.jpg>]
-(Artikel/Artikel_Trauerkneipe.tex)
+(Artikel/14_Artikel_Trauerkneipe.tex)
 
-[18] (Artikel/Abkneipe_Rede.tex)
+[21] (Artikel/15-1_Abkneipe_Rede.tex)
 
-[19] (Artikel/Abschlusskneipe.tex
-Artikel/Abschlusskneipe.tex:13: Undefined control sequence.
+[22] (Artikel/15-2_Abschlusskneipe.tex
+Artikel/15-2_Abschlusskneipe.tex:13: Undefined control sequence.
 l.13 \hypertarget
                  {Abschlusskneipe Wintersemester 2024/25}
 The control sequence at the end of the top line
@@ -975,15 +979,26 @@ and I'll forget about whatever was undefined.
 
 )
 
-[20] (Artikel/Todesanzeigen.tex
-<./Todesanzeigen/23.07.2024 Ute Fest.png.png, id=90, 668.4975pt x 367.3725pt>
+[23] (Artikel/Der_Fuchsenstall.tex
+<Bilder/Neue Bilder/Fuechse/Fuechse_Vorstellung.png, id=99, 673.51625pt x 571.1
+3374pt>
+File: Bilder/Neue Bilder/Fuechse/Fuechse_Vorstellung.png Graphic file (type png
+)
+<use Bilder/Neue Bilder/Fuechse/Fuechse_Vorstellung.png>
+Package pdftex.def Info: Bilder/Neue Bilder/Fuechse/Fuechse_Vorstellung.png  us
+ed on input line 19.
+(pdftex.def)             Requested size: 460.93466pt x 390.86696pt.
+ [24 <./Bilder/Neue Bilder/Fuechse/Fuechse_Vorstellung.png>])
+
+[25] (Artikel/Todesanzeigen.tex
+<./Todesanzeigen/23.07.2024 Ute Fest.png.png, id=108, 668.4975pt x 367.3725pt>
 File: ./Todesanzeigen/23.07.2024 Ute Fest.png.png Graphic file (type png)
 <use ./Todesanzeigen/23.07.2024 Ute Fest.png.png>
 Package pdftex.def Info: ./Todesanzeigen/23.07.2024 Ute Fest.png.png  used on i
 nput line 11.
 (pdftex.def)             Requested size: 414.83838pt x 227.9816pt.
-<./Todesanzeigen/19.02.2025 Peter Laska neu.png.png, id=91, 454.69875pt x 402.7
-5468pt>
+<./Todesanzeigen/19.02.2025 Peter Laska neu.png.png, id=109, 454.69875pt x 402.
+75468pt>
 File: ./Todesanzeigen/19.02.2025 Peter Laska neu.png.png Graphic file (type png
 )
 <use ./Todesanzeigen/19.02.2025 Peter Laska neu.png.png>
@@ -999,7 +1014,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
 
-[21 <./Todesanzeigen/23.07.2024 Ute Fest.png.png> <./Todesanzeigen/19.02.2025 P
+[26 <./Todesanzeigen/23.07.2024 Ute Fest.png.png> <./Todesanzeigen/19.02.2025 P
 eter Laska neu.png.png>] (Artikel/VaGratuliert.tex
 Underfull \hbox (badness 10000) in paragraph at lines 14--17
 
@@ -1032,7 +1047,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--88
 
 )
 
-[22
+[27
 
 ]
 (C:/Users\leona\PycharmProjects\Vandalenblaetter\auxil\VaBlaetterWS2024-25.aux)
@@ -1042,13 +1057,13 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 11591 strings out of 473523
- 233756 string characters out of 5714630
+ 11629 strings out of 473523
+ 235768 string characters out of 5714630
  882355 words of memory out of 5000000
- 34602 multiletter control sequences out of 15000+600000
+ 34631 multiletter control sequences out of 15000+600000
  567554 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,12n,110p,10935b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,12n,110p,10935b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\leona\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -1062,9 +1077,9 @@ ona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
 i12.pfb>
 Output written on C:/Users\leona\PycharmProjects\Vandalenblaetter\out\VaBlaette
-rWS2024-25.pdf (22 pages, 53451747 bytes).
+rWS2024-25.pdf (27 pages, 54878186 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
+ 160 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
