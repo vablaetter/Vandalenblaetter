@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  28 MAR 2025 13:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  28 MAR 2025 13:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -874,50 +874,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--35
 
 [13]) (Artikel/artikel_geistiges_Eigentum.tex)
 
-[14] (Artikel/artikel_n2_reduktion.tex
-Underfull \hbox (badness 5133) in paragraph at lines 12--22
-\OT1/cmr/m/n/12 ler ist mit ih-ren vie-len his-to-ri-schen
- []
-
-
-Underfull \hbox (badness 6658) in paragraph at lines 12--22
-\OT1/cmr/m/n/12 Ver-flech-tun-gen und ih-rer mo-ra-li-schen
- []
-
-
-Underfull \hbox (badness 6300) in paragraph at lines 12--22
-\OT1/cmr/m/n/12 Am-bi-va-lenz ei-ne un-be-ding-te Emp-feh-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--22
+[14] (Artikel/artikel_Brauereiführung.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--15
 
  []
 
-[15]
-<./Bilder/2.0.Stickstoff_Reduktion/Bild1.png, id=68, 193.47281pt x 255.95625pt>
+)
 
-File: ./Bilder/2.0.Stickstoff_Reduktion/Bild1.png Graphic file (type png)
-<use ./Bilder/2.0.Stickstoff_Reduktion/Bild1.png>
-Package pdftex.def Info: ./Bilder/2.0.Stickstoff_Reduktion/Bild1.png  used on i
-nput line 31.
-(pdftex.def)             Requested size: 184.37105pt x 243.91862pt.
+[15] (Artikel/Bilder_Brauereiführung.tex
+<Bilder/Neue Bilder/Brauereiführung/Brau1.jpg, id=68, 717.68124pt x 447.6725pt
+>
+File: Bilder/Neue Bilder/Brauereiführung/Brau1.jpg Graphic file (type jpg)
+<use Bilder/Neue Bilder/Brauereiführung/Brau1.jpg>
+Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau1.jpg  used on
+ input line 5.
+(pdftex.def)             Requested size: 230.46733pt x 143.75677pt.
+<Bilder/Neue Bilder/Brauereiführung/Brau2.jpg, id=69, 713.66624pt x 441.65pt>
+File: Bilder/Neue Bilder/Brauereiführung/Brau2.jpg Graphic file (type jpg)
+<use Bilder/Neue Bilder/Brauereiführung/Brau2.jpg>
+Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau2.jpg  used on
+ input line 8.
+(pdftex.def)             Requested size: 230.46733pt x 142.62477pt.
+<Bilder/Neue Bilder/Brauereiführung/Brau3.jpg, id=70, 600.2425pt x 655.44875pt
+>
+File: Bilder/Neue Bilder/Brauereiführung/Brau3.jpg Graphic file (type jpg)
+<use Bilder/Neue Bilder/Brauereiführung/Brau3.jpg>
+Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau3.jpg  used on
+ input line 9.
+(pdftex.def)             Requested size: 230.46733pt x 251.66345pt.
+<Bilder/Neue Bilder/Brauereiführung/Brau4.jpg, id=71, 564.1075pt x 662.475pt>
+File: Bilder/Neue Bilder/Brauereiführung/Brau4.jpg Graphic file (type jpg)
+<use Bilder/Neue Bilder/Brauereiführung/Brau4.jpg>
+Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau4.jpg  used on
+ input line 12.
+(pdftex.def)             Requested size: 230.46733pt x 270.65619pt.
+<Bilder/Neue Bilder/Brauereiführung/Brau5.jpg, id=72, 668.4975pt x 447.6725pt>
 
+File: Bilder/Neue Bilder/Brauereiführung/Brau5.jpg Graphic file (type jpg)
+<use Bilder/Neue Bilder/Brauereiführung/Brau5.jpg>
+Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau5.jpg  used on
+ input line 13.
+(pdftex.def)             Requested size: 230.46733pt x 154.33788pt.
+<Bilder/Neue Bilder/Brauereiführung/Brau6.jpg, id=73, 710.655pt x 447.6725pt>
+File: Bilder/Neue Bilder/Brauereiführung/Brau6.jpg Graphic file (type jpg)
+<use Bilder/Neue Bilder/Brauereiführung/Brau6.jpg>
+Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau6.jpg  used on
+ input line 16.
+(pdftex.def)             Requested size: 230.46733pt x 145.17761pt.
+
+Overfull \hbox (13.75798pt too wide) in paragraph at lines 5--17
+[]   []
+ []
+
+
+Overfull \hbox (13.75798pt too wide) in paragraph at lines 5--17
+[]   []
+ []
+
+
+Overfull \hbox (13.75798pt too wide) in paragraph at lines 5--17
+[]   [] 
+ []
+
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[16]
-<./Bilder/2.0.Stickstoff_Reduktion/Bild2.jpg, id=72, 164.2938pt x 246.1998pt>
-File: ./Bilder/2.0.Stickstoff_Reduktion/Bild2.jpg Graphic file (type jpg)
-<use ./Bilder/2.0.Stickstoff_Reduktion/Bild2.jpg>
-Package pdftex.def Info: ./Bilder/2.0.Stickstoff_Reduktion/Bild2.jpg  used on i
-nput line 39.
-(pdftex.def)             Requested size: 184.37105pt x 276.30539pt.
-)
-
-[17 <./Bilder/2.0.Stickstoff_Reduktion/Bild1.png> <./Bilder/2.0.Stickstoff_Redu
-ktion/Bild2.jpg>] (Artikel/129_artikel_genesis2.tex
+[16 <./Bilder/Neue Bilder/Brauereiführung/Brau1.jpg> <./Bilder/Neue Bilder/Bra
+uereiführung/Brau2.jpg> <./Bilder/Neue Bilder/Brauereiführung/Brau3.jpg> <./B
+ilder/Neue Bilder/Brauereiführung/Brau4.jpg> <./Bilder/Neue Bilder/Brauereifü
+hrung/Brau5.jpg> <./Bilder/Neue Bilder/Brauereiführung/Brau6.jpg>]
+(Artikel/129_artikel_genesis2.tex
 Overfull \hbox (54.48631pt too wide) in paragraph at lines 16--17
 \OT1/cmr/m/n/12 se/ Erg[]anzungshypothese, die Quel-len-hy-po-the-se/ Ur-kun-de
 n-hy-po-the-se und die Erz[]ahlkranzhypothese/
@@ -932,7 +960,7 @@ Package fancyhdr Warning: \headheight is too small (26.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.84007pt}.
 
-[18]
+[17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -944,7 +972,7 @@ Package fancyhdr Warning: \headheight is too small (26.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.84007pt}.
 
-[19])
+[18])
 
 
 Package fancyhdr Warning: \headheight is too small (26.0pt): 
@@ -953,11 +981,11 @@ Package fancyhdr Warning: \headheight is too small (26.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.84007pt}.
 
-[20] (Artikel/artikel_singfaehiger_vandale.tex)
+[19] (Artikel/artikel_singfaehiger_vandale.tex)
 
-[21] (Artikel/artikel_Neubewertung des Fuxen.tex [22])
+[20] (Artikel/artikel_Neubewertung des Fuxen.tex [21])
 
-[23] (Artikel/Todesanzeigen.tex
+[22] (Artikel/Todesanzeigen.tex
 <./Todesanzeigen/23.07.2024 Ute Fest.png.png, id=97, 668.4975pt x 367.3725pt>
 File: ./Todesanzeigen/23.07.2024 Ute Fest.png.png Graphic file (type png)
 <use ./Todesanzeigen/23.07.2024 Ute Fest.png.png>
@@ -981,60 +1009,40 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
 
-[24 <./Todesanzeigen/23.07.2024 Ute Fest.png.png> <./Todesanzeigen/19.02.2025 P
+[23 <./Todesanzeigen/23.07.2024 Ute Fest.png.png> <./Todesanzeigen/19.02.2025 P
 eter Laska neu.png.png>] (Artikel/VaGratuliert.tex
-Underfull \hbox (badness 10000) in paragraph at lines 14--22
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--32
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--39
+Underfull \hbox (badness 10000) in paragraph at lines 38--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--45
+Underfull \hbox (badness 10000) in paragraph at lines 48--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--49
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--55
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--61
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--69
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--105
+Underfull \hbox (badness 10000) in paragraph at lines 81--88
 
  []
 
 )
 
-[25
+[24
 
 ]
 (C:/Users\leona\PycharmProjects\Vandalenblaetter\auxil\VaBlaetterWS2024-25.aux)
@@ -1044,13 +1052,13 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 11511 strings out of 473523
- 229823 string characters out of 5714630
- 883355 words of memory out of 5000000
- 34527 multiletter control sequences out of 15000+600000
+ 11584 strings out of 473523
+ 233555 string characters out of 5714630
+ 881355 words of memory out of 5000000
+ 34597 multiletter control sequences out of 15000+600000
  567931 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,13n,110p,10935b,626s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,12n,110p,10935b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\leona\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcti
 1200.pk> <C:\Users\leona\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm1200.pk><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1065,9 +1073,9 @@ ers/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10
 .pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmti12.pfb>
 Output written on C:/Users\leona\PycharmProjects\Vandalenblaetter\out\VaBlaette
-rWS2024-25.pdf (25 pages, 53024219 bytes).
+rWS2024-25.pdf (24 pages, 53467335 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
+ 154 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
