@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.24)  29 MAR 2025 13:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.24)  29 MAR 2025 16:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -15,7 +15,19 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \usepackage{
-                hyperref}%% file: VaBlaetter.tex
+                hyperref}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+VaBlaetterWS2024-25.tex:2: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \usepackage{
+                graphicx}%% file: VaBlaetter.tex
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
 
@@ -656,20 +668,20 @@ Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 )
 \openout1 = `VaBlaetterWS2024-25.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
 
 (C:\Users\philk\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -734,12 +746,11 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Redefining \end@dblfloat\ for use with subfigure
 (Titelseite.tex
-<Titelseite/Cover-Herbst-2024.jpg, id=1, 598.51605pt x 845.559pt>
-File: Titelseite/Cover-Herbst-2024.jpg Graphic file (type jpg)
-<use Titelseite/Cover-Herbst-2024.jpg>
-Package pdftex.def Info: Titelseite/Cover-Herbst-2024.jpg  used on input line 7
-.
-(pdftex.def)             Requested size: 597.50787pt x 844.1506pt.
+<Titelseite/130Titlepage.png, id=1, 597.432pt x 845.0772pt>
+File: Titelseite/130Titlepage.png Graphic file (type png)
+<use Titelseite/130Titlepage.png>
+Package pdftex.def Info: Titelseite/130Titlepage.png  used on input line 7.
+(pdftex.def)             Requested size: 597.50787pt x 845.25566pt.
 
 Overfull \hbox (485.47516pt too wide) in paragraph at lines 7--8
 [][] 
@@ -749,7 +760,7 @@ Overfull \hbox (485.47516pt too wide) in paragraph at lines 7--8
 
 [1
 
- <./Titelseite/Cover-Herbst-2024.jpg>])
+ <./Titelseite/130Titlepage.png>])
 (C:/Coding\Vandalenblaetter\auxil\VaBlaetterWS2024-25.toc)
 \tf@toc=\write3
 \openout3 = `VaBlaetterWS2024-25.toc'.
@@ -757,12 +768,12 @@ Overfull \hbox (485.47516pt too wide) in paragraph at lines 7--8
 
 
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported  on input line 72.
+(babel)             Reported  on input line 73.
 [2{C:/Users/philk/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 ]
 (Artikel/impressum.tex
-<Bilder/chargen/chargen3.jpg, id=13, 1270.5066pt x 937.101pt>
+<Bilder/chargen/chargen3.jpg, id=15, 1270.5066pt x 937.101pt>
 File: Bilder/chargen/chargen3.jpg Graphic file (type jpg)
 <use Bilder/chargen/chargen3.jpg>
 Package pdftex.def Info: Bilder/chargen/chargen3.jpg  used on input line 10.
@@ -807,7 +818,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--47
 [8] (Artikel/5_artikel_perspektivforum.tex)
 
 [9] (Artikel/6_artikel_ita_abend.tex
-<./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min.png, id=41, 1179.1421pt
+<./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min.png, id=43, 1179.1421pt
  x 556.52655pt>
 File: ./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min.png Graphic file (
 type png)
@@ -815,7 +826,7 @@ type png)
 Package pdftex.def Info: ./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min
 .png  used on input line 42.
 (pdftex.def)             Requested size: 368.74913pt x 174.04149pt.
-<./Bilder/Neue Bilder/Italienischer Abend/DSC_3460-min.png, id=42, 1426.38158pt
+<./Bilder/Neue Bilder/Italienischer Abend/DSC_3460-min.png, id=44, 1426.38158pt
  x 950.92105pt>
 File: ./Bilder/Neue Bilder/Italienischer Abend/DSC_3460-min.png Graphic file (t
 ype png)
@@ -835,7 +846,7 @@ Underfull \hbox (badness 6188) in paragraph at lines 29--36
 
 
 [11]
-<./Bilder/Neue Bilder/Aktivenfahrt/Aktivenfahrt.png, id=51, 770.88pt x 596.2275
+<./Bilder/Neue Bilder/Aktivenfahrt/Aktivenfahrt.png, id=53, 770.88pt x 596.2275
 pt>
 File: ./Bilder/Neue Bilder/Aktivenfahrt/Aktivenfahrt.png Graphic file (type png
 )
@@ -906,40 +917,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--15
 )
 
 [19] (Artikel/Bilder_Brauereiführung.tex
-<Bilder/Neue Bilder/Brauereiführung/Brau1.jpg, id=81, 717.68124pt x 447.6725pt
+<Bilder/Neue Bilder/Brauereiführung/Brau1.jpg, id=82, 717.68124pt x 447.6725pt
 >
 File: Bilder/Neue Bilder/Brauereiführung/Brau1.jpg Graphic file (type jpg)
 <use Bilder/Neue Bilder/Brauereiführung/Brau1.jpg>
 Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau1.jpg  used on
  input line 5.
 (pdftex.def)             Requested size: 230.46733pt x 143.75677pt.
-<Bilder/Neue Bilder/Brauereiführung/Brau2.jpg, id=82, 713.66624pt x 441.65pt>
+<Bilder/Neue Bilder/Brauereiführung/Brau2.jpg, id=83, 713.66624pt x 441.65pt>
 File: Bilder/Neue Bilder/Brauereiführung/Brau2.jpg Graphic file (type jpg)
 <use Bilder/Neue Bilder/Brauereiführung/Brau2.jpg>
 Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau2.jpg  used on
  input line 8.
 (pdftex.def)             Requested size: 230.46733pt x 142.62477pt.
-<Bilder/Neue Bilder/Brauereiführung/Brau3.jpg, id=83, 600.2425pt x 655.44875pt
+<Bilder/Neue Bilder/Brauereiführung/Brau3.jpg, id=84, 600.2425pt x 655.44875pt
 >
 File: Bilder/Neue Bilder/Brauereiführung/Brau3.jpg Graphic file (type jpg)
 <use Bilder/Neue Bilder/Brauereiführung/Brau3.jpg>
 Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau3.jpg  used on
  input line 9.
 (pdftex.def)             Requested size: 230.46733pt x 251.66345pt.
-<Bilder/Neue Bilder/Brauereiführung/Brau4.jpg, id=84, 564.1075pt x 662.475pt>
+<Bilder/Neue Bilder/Brauereiführung/Brau4.jpg, id=85, 564.1075pt x 662.475pt>
 File: Bilder/Neue Bilder/Brauereiführung/Brau4.jpg Graphic file (type jpg)
 <use Bilder/Neue Bilder/Brauereiführung/Brau4.jpg>
 Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau4.jpg  used on
  input line 12.
 (pdftex.def)             Requested size: 230.46733pt x 270.65619pt.
-<Bilder/Neue Bilder/Brauereiführung/Brau5.jpg, id=85, 668.4975pt x 447.6725pt>
+<Bilder/Neue Bilder/Brauereiführung/Brau5.jpg, id=86, 668.4975pt x 447.6725pt>
 
 File: Bilder/Neue Bilder/Brauereiführung/Brau5.jpg Graphic file (type jpg)
 <use Bilder/Neue Bilder/Brauereiführung/Brau5.jpg>
 Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau5.jpg  used on
  input line 13.
 (pdftex.def)             Requested size: 230.46733pt x 154.33788pt.
-<Bilder/Neue Bilder/Brauereiführung/Brau6.jpg, id=86, 710.655pt x 447.6725pt>
+<Bilder/Neue Bilder/Brauereiführung/Brau6.jpg, id=87, 710.655pt x 447.6725pt>
 File: Bilder/Neue Bilder/Brauereiführung/Brau6.jpg Graphic file (type jpg)
 <use Bilder/Neue Bilder/Brauereiführung/Brau6.jpg>
 Package pdftex.def Info: Bilder/Neue Bilder/Brauereiführung/Brau6.jpg  used on
@@ -986,8 +997,8 @@ and I'll forget about whatever was undefined.
 )
 
 [23] (Artikel/Der_Fuchsenstall.tex
-<Bilder/Neue Bilder/Fuechse/Fuechse_Vorstellung.png, id=99, 673.51625pt x 571.1
-3374pt>
+<Bilder/Neue Bilder/Fuechse/Fuechse_Vorstellung.png, id=100, 673.51625pt x 571.
+13374pt>
 File: Bilder/Neue Bilder/Fuechse/Fuechse_Vorstellung.png Graphic file (type png
 )
 <use Bilder/Neue Bilder/Fuechse/Fuechse_Vorstellung.png>
@@ -999,13 +1010,13 @@ ed on input line 19.
 [25] (Artikel/18_Stiftungsfesteinladung.tex)
 
 [26] (Artikel/Todesanzeigen.tex
-<./Todesanzeigen/23.07.2024 Ute Fest.png.png, id=111, 668.4975pt x 367.3725pt>
+<./Todesanzeigen/23.07.2024 Ute Fest.png.png, id=112, 668.4975pt x 367.3725pt>
 File: ./Todesanzeigen/23.07.2024 Ute Fest.png.png Graphic file (type png)
 <use ./Todesanzeigen/23.07.2024 Ute Fest.png.png>
 Package pdftex.def Info: ./Todesanzeigen/23.07.2024 Ute Fest.png.png  used on i
 nput line 11.
 (pdftex.def)             Requested size: 414.83838pt x 227.9816pt.
-<./Todesanzeigen/19.02.2025 Peter Laska neu.png.png, id=112, 454.69875pt x 402.
+<./Todesanzeigen/19.02.2025 Peter Laska neu.png.png, id=113, 454.69875pt x 402.
 75468pt>
 File: ./Todesanzeigen/19.02.2025 Peter Laska neu.png.png Graphic file (type png
 )
@@ -1064,10 +1075,10 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 11637 strings out of 473523
- 235375 string characters out of 5714630
+ 11641 strings out of 473523
+ 235545 string characters out of 5714630
  882355 words of memory out of 5000000
- 34636 multiletter control sequences out of 15000+600000
+ 34640 multiletter control sequences out of 15000+600000
  567554 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  113i,12n,110p,10935b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1084,9 +1095,9 @@ ilk/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 C:/Users/philk/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
 i12.pfb>
 Output written on C:/Coding\Vandalenblaetter\out\VaBlaetterWS2024-25.pdf (28 pa
-ges, 54883110 bytes).
+ges, 57439492 bytes).
 PDF statistics:
- 163 PDF objects out of 1000 (max. 8388607)
+ 164 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
