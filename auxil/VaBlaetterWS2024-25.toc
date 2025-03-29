@@ -10,7 +10,7 @@
 \contentsline {section}{\numberline {}Tanzen bei der KDStV Vandalia Prag zu München im CV: Knotentanzkurs als perfekte Vorbereitung auf das Wintersemester}{13}{}%
 \contentsline {section}{\numberline {}Begrüßungsabend}{14}{}%
 \contentsline {section}{\numberline {}Rede des Seniors zum Festkommers}{15}{}%
-\contentsline {section}{\numberline {}Barrieren des Rauchstopps – Wenn der Glimmstängel mehr als nur Gewohnheit ist}{17}{}%
+\contentsline {section}{\numberline {}Barrieren des Rauchstopps}{17}{}%
 \contentsline {section}{\numberline {}Wertschöpfung und Kreativität: Einblicke in das geistige Eigentum}{18}{}%
 \contentsline {section}{\numberline {}Brauereiführung im Airbräu}{19}{}%
 \contentsline {section}{\numberline {}Bilder Brauereiführung}{20}{}%
