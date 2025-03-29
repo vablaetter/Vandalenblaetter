@@ -15,7 +15,7 @@
 \contentsline {section}{\numberline {}Brauereiführung im Airbräu}{19}{}%
 \contentsline {section}{\numberline {}Bilder Brauereiführung}{20}{}%
 \contentsline {section}{\numberline {}Trauerkneipe}{21}{}%
-\contentsline {section}{\numberline {}Kneiprede Raphael Frank X}{22}{}%
+\contentsline {section}{\numberline {}Rede des Seniors zur Abkneipe}{22}{}%
 \contentsline {section}{\numberline {}Abschlusskneipe}{23}{}%
 \contentsline {section}{\numberline {}Der Fuchsenstall}{24}{}%
 \contentsline {section}{\numberline {}Vorwort des kommenden Seniors zum Stiftungsfest}{26}{}%
