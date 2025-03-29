@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.24)  29 MAR 2025 16:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.24)  29 MAR 2025 20:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -27,7 +27,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.2 \usepackage{
-                graphicx}%% file: VaBlaetter.tex
+                graphicx}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
 
@@ -668,20 +668,20 @@ Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 )
 \openout1 = `VaBlaetterWS2024-25.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 
 (C:\Users\philk\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -768,7 +768,7 @@ Overfull \hbox (485.47516pt too wide) in paragraph at lines 7--8
 
 
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported  on input line 73.
+(babel)             Reported  on input line 76.
 [2{C:/Users/philk/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 ]
@@ -784,12 +784,17 @@ Overfull \hbox (25.69328pt too wide) in paragraph at lines 20--25
  []
 
 
-Overfull \hbox (20.56404pt too wide) in paragraph at lines 49--67
+Underfull \hbox (badness 10000) in paragraph at lines 49--68
+
+ []
+
+
+Overfull \hbox (20.56404pt too wide) in paragraph at lines 49--68
  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--67
+Underfull \hbox (badness 10000) in paragraph at lines 49--68
 
  []
 
@@ -801,6 +806,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--67
 Underfull \hbox (badness 10000) in paragraph at lines 13--47
 \OT1/cmr/m/n/12 Nichtsdestotrotz sp[]uren wir in den
  []
+
+
 
 [4
 
@@ -824,7 +831,7 @@ File: ./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min.png Graphic file (
 type png)
 <use ./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min.png>
 Package pdftex.def Info: ./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min
-.png  used on input line 42.
+.png  used on input line 37.
 (pdftex.def)             Requested size: 368.74913pt x 174.04149pt.
 <./Bilder/Neue Bilder/Italienischer Abend/DSC_3460-min.png, id=44, 1426.38158pt
  x 950.92105pt>
@@ -832,8 +839,8 @@ File: ./Bilder/Neue Bilder/Italienischer Abend/DSC_3460-min.png Graphic file (t
 ype png)
 <use ./Bilder/Neue Bilder/Italienischer Abend/DSC_3460-min.png>
 Package pdftex.def Info: ./Bilder/Neue Bilder/Italienischer Abend/DSC_3460-min.
-png  used on input line 47.
-(pdftex.def)             Requested size: 322.65285pt x 215.09428pt.
+png  used on input line 42.
+(pdftex.def)             Requested size: 331.8735pt x 221.24646pt.
 )
 
 [10 <./Bilder/Neue Bilder/Italienischer Abend//DSC_3481-min.png> <./Bilder/Neue
@@ -1014,27 +1021,18 @@ ed on input line 19.
 File: ./Todesanzeigen/23.07.2024 Ute Fest.png.png Graphic file (type png)
 <use ./Todesanzeigen/23.07.2024 Ute Fest.png.png>
 Package pdftex.def Info: ./Todesanzeigen/23.07.2024 Ute Fest.png.png  used on i
-nput line 11.
-(pdftex.def)             Requested size: 414.83838pt x 227.9816pt.
-<./Todesanzeigen/19.02.2025 Peter Laska neu.png.png, id=113, 454.69875pt x 402.
-75468pt>
-File: ./Todesanzeigen/19.02.2025 Peter Laska neu.png.png Graphic file (type png
-)
-<use ./Todesanzeigen/19.02.2025 Peter Laska neu.png.png>
-Package pdftex.def Info: ./Todesanzeigen/19.02.2025 Peter Laska neu.png.png  us
-ed on input line 14.
-(pdftex.def)             Requested size: 414.83838pt x 367.45374pt.
-
-
-LaTeX Warning: Float too large for page by 15.39156pt on input line 16.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+nput line 17.
+(pdftex.def)             Requested size: 322.65285pt x 177.31776pt.
+<./Todesanzeigen/19.02.2025 PeterLaska.png, id=113, 739.26187pt x 452.4403pt>
+File: ./Todesanzeigen/19.02.2025 PeterLaska.png Graphic file (type png)
+<use ./Todesanzeigen/19.02.2025 PeterLaska.png>
+Package pdftex.def Info: ./Todesanzeigen/19.02.2025 PeterLaska.png  used on inp
+ut line 22.
+(pdftex.def)             Requested size: 322.65285pt x 197.46579pt.
 )
 
 [27 <./Todesanzeigen/23.07.2024 Ute Fest.png.png> <./Todesanzeigen/19.02.2025 P
-eter Laska neu.png.png>] (Artikel/VaGratuliert.tex
+eterLaska.png>] (Artikel/VaGratuliert.tex
 Underfull \hbox (badness 10000) in paragraph at lines 14--17
 
  []
@@ -1059,11 +1057,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--56
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--88
-
- []
-
 )
 
 [28
@@ -1075,13 +1068,13 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 11641 strings out of 473523
- 235545 string characters out of 5714630
- 882355 words of memory out of 5000000
- 34640 multiletter control sequences out of 15000+600000
+ 11630 strings out of 473523
+ 235173 string characters out of 5714630
+ 881355 words of memory out of 5000000
+ 34629 multiletter control sequences out of 15000+600000
  567554 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,12n,110p,10935b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,12n,110p,10935b,545s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\philk\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/philk/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/philk/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -1095,7 +1088,7 @@ ilk/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 C:/Users/philk/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
 i12.pfb>
 Output written on C:/Coding\Vandalenblaetter\out\VaBlaetterWS2024-25.pdf (28 pa
-ges, 57439492 bytes).
+ges, 57654008 bytes).
 PDF statistics:
  164 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
